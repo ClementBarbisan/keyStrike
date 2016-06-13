@@ -1,0 +1,2344 @@
+fileFormatVersion: 2
+guid: 8e5fb56bddc1445f98d787027803faa2
+timeCreated: 1465556889
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cfalcon_0
+    21300002: cfalcon_1
+    21300004: cfalcon_2
+    21300006: cfalcon_3
+    21300008: cfalcon_4
+    21300010: cfalcon_5
+    21300012: cfalcon_6
+    21300014: cfalcon_7
+    21300016: cfalcon_8
+    21300018: cfalcon_9
+    21300020: cfalcon_10
+    21300022: cfalcon_11
+    21300024: cfalcon_12
+    21300026: cfalcon_13
+    21300028: cfalcon_14
+    21300030: cfalcon_15
+    21300032: cfalcon_16
+    21300034: cfalcon_17
+    21300036: cfalcon_18
+    21300038: cfalcon_19
+    21300040: cfalcon_20
+    21300042: cfalcon_21
+    21300044: cfalcon_22
+    21300046: cfalcon_23
+    21300048: cfalcon_24
+    21300050: cfalcon_25
+    21300052: cfalcon_26
+    21300054: cfalcon_27
+    21300056: cfalcon_28
+    21300058: cfalcon_29
+    21300060: cfalcon_30
+    21300062: cfalcon_31
+    21300064: cfalcon_32
+    21300066: cfalcon_33
+    21300068: cfalcon_34
+    21300070: cfalcon_35
+    21300072: cfalcon_36
+    21300074: cfalcon_37
+    21300076: cfalcon_38
+    21300078: cfalcon_39
+    21300080: cfalcon_40
+    21300082: cfalcon_41
+    21300084: cfalcon_42
+    21300086: cfalcon_43
+    21300088: cfalcon_44
+    21300090: cfalcon_45
+    21300092: cfalcon_46
+    21300094: cfalcon_47
+    21300096: cfalcon_48
+    21300098: cfalcon_49
+    21300100: cfalcon_50
+    21300102: cfalcon_51
+    21300104: cfalcon_52
+    21300106: cfalcon_53
+    21300108: cfalcon_54
+    21300110: cfalcon_55
+    21300112: cfalcon_56
+    21300114: cfalcon_57
+    21300116: cfalcon_58
+    21300118: cfalcon_59
+    21300120: cfalcon_60
+    21300122: cfalcon_61
+    21300124: cfalcon_62
+    21300126: cfalcon_63
+    21300128: cfalcon_64
+    21300130: cfalcon_65
+    21300132: cfalcon_66
+    21300134: cfalcon_67
+    21300136: cfalcon_68
+    21300138: cfalcon_69
+    21300140: cfalcon_70
+    21300142: cfalcon_71
+    21300144: cfalcon_72
+    21300146: cfalcon_73
+    21300148: cfalcon_74
+    21300150: cfalcon_75
+    21300152: cfalcon_76
+    21300154: cfalcon_77
+    21300156: cfalcon_78
+    21300158: cfalcon_79
+    21300160: cfalcon_80
+    21300162: cfalcon_81
+    21300164: cfalcon_82
+    21300166: cfalcon_83
+    21300168: cfalcon_84
+    21300170: cfalcon_85
+    21300172: cfalcon_86
+    21300174: cfalcon_87
+    21300176: cfalcon_88
+    21300178: cfalcon_89
+    21300180: cfalcon_90
+    21300182: cfalcon_91
+    21300184: cfalcon_92
+    21300186: cfalcon_93
+    21300188: cfalcon_94
+    21300190: cfalcon_95
+    21300192: cfalcon_96
+    21300194: cfalcon_97
+    21300196: cfalcon_98
+    21300198: cfalcon_99
+    21300200: cfalcon_100
+    21300202: cfalcon_101
+    21300204: cfalcon_102
+    21300206: cfalcon_103
+    21300208: cfalcon_104
+    21300210: cfalcon_105
+    21300212: cfalcon_106
+    21300214: cfalcon_107
+    21300216: cfalcon_108
+    21300218: cfalcon_109
+    21300220: cfalcon_110
+    21300222: cfalcon_111
+    21300224: cfalcon_112
+    21300226: cfalcon_113
+    21300228: cfalcon_114
+    21300230: cfalcon_115
+    21300232: cfalcon_116
+    21300234: cfalcon_117
+    21300236: cfalcon_118
+    21300238: cfalcon_119
+    21300240: cfalcon_120
+    21300242: cfalcon_121
+    21300244: cfalcon_122
+    21300246: cfalcon_123
+    21300248: cfalcon_124
+    21300250: cfalcon_125
+    21300252: cfalcon_126
+    21300254: cfalcon_127
+    21300256: cfalcon_128
+    21300258: cfalcon_129
+    21300260: cfalcon_130
+    21300262: cfalcon_131
+    21300264: cfalcon_132
+    21300266: cfalcon_133
+    21300268: cfalcon_134
+    21300270: cfalcon_135
+    21300272: cfalcon_136
+    21300274: cfalcon_137
+    21300276: cfalcon_138
+    21300278: cfalcon_139
+    21300280: cfalcon_140
+    21300282: cfalcon_141
+    21300284: cfalcon_142
+    21300286: cfalcon_143
+    21300288: cfalcon_144
+    21300290: cfalcon_145
+    21300292: cfalcon_146
+    21300294: cfalcon_147
+    21300296: cfalcon_148
+    21300298: cfalcon_149
+    21300300: cfalcon_150
+    21300302: cfalcon_151
+    21300304: cfalcon_152
+    21300306: cfalcon_153
+    21300308: cfalcon_154
+    21300310: cfalcon_155
+    21300312: cfalcon_156
+    21300314: cfalcon_157
+    21300316: cfalcon_158
+    21300318: cfalcon_159
+    21300320: cfalcon_160
+    21300322: cfalcon_161
+    21300324: cfalcon_162
+    21300326: cfalcon_163
+    21300328: cfalcon_164
+    21300330: cfalcon_165
+    21300332: cfalcon_166
+    21300334: cfalcon_167
+    21300336: cfalcon_168
+    21300338: cfalcon_169
+    21300340: cfalcon_170
+    21300342: cfalcon_171
+    21300344: cfalcon_172
+    21300346: cfalcon_173
+    21300348: cfalcon_174
+    21300350: cfalcon_175
+    21300352: cfalcon_176
+    21300354: cfalcon_177
+    21300356: cfalcon_178
+    21300358: cfalcon_179
+    21300360: cfalcon_180
+    21300362: cfalcon_181
+    21300364: cfalcon_182
+    21300366: cfalcon_183
+    21300368: cfalcon_184
+    21300370: cfalcon_185
+    21300372: cfalcon_186
+    21300374: cfalcon_187
+    21300376: cfalcon_188
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cfalcon_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 7688
+        width: 99
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 7688
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 7688
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_3
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 7684
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 7570
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 7570
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 7566
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_7
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 7562
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 7459
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_9
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 7429
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_10
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 7425
+        width: 76
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_11
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 7421
+        width: 65
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 7284
+        width: 61
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 7280
+        width: 61
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_14
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 7284
+        width: 65
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_15
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 7280
+        width: 65
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_16
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 7280
+        width: 69
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 7132
+        width: 65
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 7143
+        width: 77
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_19
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 7166
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_20
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 7151
+        width: 88
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 7010
+        width: 115
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_22
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 7014
+        width: 61
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_23
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 7014
+        width: 103
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 7017
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_25
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 6892
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_26
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 6888
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_27
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 6884
+        width: 107
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 6758
+        width: 100
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_29
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 6755
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_30
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 6751
+        width: 99
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_31
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 6747
+        width: 100
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_32
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 6636
+        width: 157
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_33
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 6629
+        width: 156
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_34
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 6503
+        width: 153
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_35
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 6503
+        width: 117
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_36
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 6499
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_37
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 6374
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 6370
+        width: 141
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_39
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 6366
+        width: 141
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6229
+        width: 141
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_41
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 6229
+        width: 123
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_42
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 6221
+        width: 114
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 6084
+        width: 103
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_44
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 6084
+        width: 99
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_45
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 6088
+        width: 137
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_46
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 5951
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_47
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 5940
+        width: 137
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_48
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 5947
+        width: 118
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_49
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 5821
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_50
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 5814
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_51
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 5810
+        width: 65
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_52
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 5806
+        width: 114
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_53
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 5673
+        width: 80
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_54
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 5665
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_55
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 5654
+        width: 83
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_56
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 5559
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_57
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 5551
+        width: 99
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_58
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 5547
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_59
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 5540
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_60
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5429
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_61
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 5410
+        width: 92
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_62
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 5402
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_63
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 5361
+        width: 80
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_64
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 5163
+        width: 77
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_65
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 5174
+        width: 69
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_66
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 5178
+        width: 69
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_67
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 5204
+        width: 87
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_68
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5060
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_69
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 5060
+        width: 126
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_70
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 5056
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_71
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 5044
+        width: 53
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_72
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4915
+        width: 88
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_73
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4942
+        width: 92
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_74
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 4934
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_75
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 4930
+        width: 57
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4679
+        width: 21
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_77
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4797
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_78
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 4789
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_79
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 4797
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_80
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 4801
+        width: 88
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_81
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 4667
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_82
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 4675
+        width: 130
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_83
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 4675
+        width: 73
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_84
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 4664
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_85
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 4557
+        width: 107
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_86
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 4557
+        width: 122
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_87
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 4424
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_88
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 4279
+        width: 99
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_89
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 4279
+        width: 100
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_90
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4009
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_91
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 4012
+        width: 107
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_92
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 4020
+        width: 92
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_93
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 4024
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_94
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3913
+        width: 111
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_95
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 3921
+        width: 126
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_96
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 3932
+        width: 141
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_97
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 3746
+        width: 103
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_98
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 3738
+        width: 110
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_99
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 3734
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_100
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3487
+        width: 149
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_101
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3479
+        width: 145
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_102
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3353
+        width: 110
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_103
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 3350
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_104
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 3224
+        width: 103
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_105
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 3224
+        width: 134
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_106
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3083
+        width: 133
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_107
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 3083
+        width: 115
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_108
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 3075
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_109
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2938
+        width: 103
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_110
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2935
+        width: 99
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_111
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2938
+        width: 130
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_112
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2794
+        width: 126
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_113
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2676
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_114
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2691
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_115
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2683
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_116
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2546
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_117
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2531
+        width: 53
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_118
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2401
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_119
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2428
+        width: 92
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_120
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2401
+        width: 95
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_121
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2405
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_122
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2238
+        width: 126
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_123
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2302
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_124
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2249
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_125
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2089
+        width: 99
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_126
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2085
+        width: 99
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_127
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1944
+        width: 100
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_128
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1952
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_129
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1880
+        width: 96
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_130
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1811
+        width: 38
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_131
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1826
+        width: 38
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_132
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1826
+        width: 38
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_133
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1838
+        width: 88
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_134
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1792
+        width: 99
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_135
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1723
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_136
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1727
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_137
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1723
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_138
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1727
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_139
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1651
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_140
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1697
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_141
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1693
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_142
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1666
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_143
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1682
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_144
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1666
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_145
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1632
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_146
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1666
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_147
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1674
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_148
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1662
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_149
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1647
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_150
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1662
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_151
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1651
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_152
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1643
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_153
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1628
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_154
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1647
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_155
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1518
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_156
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1518
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_157
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1514
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_158
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1514
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_159
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1514
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_160
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1438
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_161
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1442
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_162
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1449
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_163
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1438
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_164
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1426
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_165
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1423
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_166
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1423
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_167
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1419
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_168
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1403
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_169
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1415
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_170
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1251
+        width: 134
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.594, y: 20.761993}
+        - {x: -17.594, y: 20.761993}
+        - {x: -17.594, y: 11.761993}
+        - {x: -14.594, y: 6.7619934}
+        - {x: 0.40600014, y: -13.238007}
+        - {x: 12.406, y: -19.238007}
+        - {x: 18.406, y: -19.238007}
+        - {x: 18.406, y: -9.238007}
+        - {x: 17.406, y: -7.2380066}
+        - {x: 16.406, y: -2.2380066}
+        - {x: 0.40600014, y: 16.761993}
+    - name: cfalcon_171
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1377
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_172
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1244
+        width: 122
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_173
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1346
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_174
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1316
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_175
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1289
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_176
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1087
+        width: 130
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.046, y: 20.294006}
+        - {x: -17.046, y: 12.294006}
+        - {x: -8.046, y: -7.7059937}
+        - {x: -1.0459995, y: -16.705994}
+        - {x: 13.954, y: -18.705994}
+        - {x: 17.954, y: -18.705994}
+        - {x: 17.954, y: 1.2940063}
+        - {x: -4.0459995, y: 20.294006}
+    - name: cfalcon_177
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1072
+        width: 99
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_178
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1076
+        width: 87
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_179
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 969
+        width: 192
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_180
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 886
+        width: 176
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_181
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 794
+        width: 198
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_182
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 657
+        width: 138
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_183
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 665
+        width: 130
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_184
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 398
+        width: 73
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_185
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 421
+        width: 69
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_186
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 421
+        width: 76
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_187
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 219
+        width: 103
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cfalcon_188
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 223
+        width: 119
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
