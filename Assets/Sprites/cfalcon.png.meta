@@ -1,206 +1,585 @@
 fileFormatVersion: 2
 guid: 8e5fb56bddc1445f98d787027803faa2
-timeCreated: 1465556889
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: cfalcon_0
-    21300002: cfalcon_1
-    21300004: cfalcon_2
-    21300006: cfalcon_3
-    21300008: cfalcon_4
-    21300010: cfalcon_5
-    21300012: cfalcon_6
-    21300014: cfalcon_7
-    21300016: cfalcon_8
-    21300018: cfalcon_9
-    21300020: cfalcon_10
-    21300022: cfalcon_11
-    21300024: cfalcon_12
-    21300026: cfalcon_13
-    21300028: cfalcon_14
-    21300030: cfalcon_15
-    21300032: cfalcon_16
-    21300034: cfalcon_17
-    21300036: cfalcon_18
-    21300038: cfalcon_19
-    21300040: cfalcon_20
-    21300042: cfalcon_21
-    21300044: cfalcon_22
-    21300046: cfalcon_23
-    21300048: cfalcon_24
-    21300050: cfalcon_25
-    21300052: cfalcon_26
-    21300054: cfalcon_27
-    21300056: cfalcon_28
-    21300058: cfalcon_29
-    21300060: cfalcon_30
-    21300062: cfalcon_31
-    21300064: cfalcon_32
-    21300066: cfalcon_33
-    21300068: cfalcon_34
-    21300070: cfalcon_35
-    21300072: cfalcon_36
-    21300074: cfalcon_37
-    21300076: cfalcon_38
-    21300078: cfalcon_39
-    21300080: cfalcon_40
-    21300082: cfalcon_41
-    21300084: cfalcon_42
-    21300086: cfalcon_43
-    21300088: cfalcon_44
-    21300090: cfalcon_45
-    21300092: cfalcon_46
-    21300094: cfalcon_47
-    21300096: cfalcon_48
-    21300098: cfalcon_49
-    21300100: cfalcon_50
-    21300102: cfalcon_51
-    21300104: cfalcon_52
-    21300106: cfalcon_53
-    21300108: cfalcon_54
-    21300110: cfalcon_55
-    21300112: cfalcon_56
-    21300114: cfalcon_57
-    21300116: cfalcon_58
-    21300118: cfalcon_59
-    21300120: cfalcon_60
-    21300122: cfalcon_61
-    21300124: cfalcon_62
-    21300126: cfalcon_63
-    21300128: cfalcon_64
-    21300130: cfalcon_65
-    21300132: cfalcon_66
-    21300134: cfalcon_67
-    21300136: cfalcon_68
-    21300138: cfalcon_69
-    21300140: cfalcon_70
-    21300142: cfalcon_71
-    21300144: cfalcon_72
-    21300146: cfalcon_73
-    21300148: cfalcon_74
-    21300150: cfalcon_75
-    21300152: cfalcon_76
-    21300154: cfalcon_77
-    21300156: cfalcon_78
-    21300158: cfalcon_79
-    21300160: cfalcon_80
-    21300162: cfalcon_81
-    21300164: cfalcon_82
-    21300166: cfalcon_83
-    21300168: cfalcon_84
-    21300170: cfalcon_85
-    21300172: cfalcon_86
-    21300174: cfalcon_87
-    21300176: cfalcon_88
-    21300178: cfalcon_89
-    21300180: cfalcon_90
-    21300182: cfalcon_91
-    21300184: cfalcon_92
-    21300186: cfalcon_93
-    21300188: cfalcon_94
-    21300190: cfalcon_95
-    21300192: cfalcon_96
-    21300194: cfalcon_97
-    21300196: cfalcon_98
-    21300198: cfalcon_99
-    21300200: cfalcon_100
-    21300202: cfalcon_101
-    21300204: cfalcon_102
-    21300206: cfalcon_103
-    21300208: cfalcon_104
-    21300210: cfalcon_105
-    21300212: cfalcon_106
-    21300214: cfalcon_107
-    21300216: cfalcon_108
-    21300218: cfalcon_109
-    21300220: cfalcon_110
-    21300222: cfalcon_111
-    21300224: cfalcon_112
-    21300226: cfalcon_113
-    21300228: cfalcon_114
-    21300230: cfalcon_115
-    21300232: cfalcon_116
-    21300234: cfalcon_117
-    21300236: cfalcon_118
-    21300238: cfalcon_119
-    21300240: cfalcon_120
-    21300242: cfalcon_121
-    21300244: cfalcon_122
-    21300246: cfalcon_123
-    21300248: cfalcon_124
-    21300250: cfalcon_125
-    21300252: cfalcon_126
-    21300254: cfalcon_127
-    21300256: cfalcon_128
-    21300258: cfalcon_129
-    21300260: cfalcon_130
-    21300262: cfalcon_131
-    21300264: cfalcon_132
-    21300266: cfalcon_133
-    21300268: cfalcon_134
-    21300270: cfalcon_135
-    21300272: cfalcon_136
-    21300274: cfalcon_137
-    21300276: cfalcon_138
-    21300278: cfalcon_139
-    21300280: cfalcon_140
-    21300282: cfalcon_141
-    21300284: cfalcon_142
-    21300286: cfalcon_143
-    21300288: cfalcon_144
-    21300290: cfalcon_145
-    21300292: cfalcon_146
-    21300294: cfalcon_147
-    21300296: cfalcon_148
-    21300298: cfalcon_149
-    21300300: cfalcon_150
-    21300302: cfalcon_151
-    21300304: cfalcon_152
-    21300306: cfalcon_153
-    21300308: cfalcon_154
-    21300310: cfalcon_155
-    21300312: cfalcon_156
-    21300314: cfalcon_157
-    21300316: cfalcon_158
-    21300318: cfalcon_159
-    21300320: cfalcon_160
-    21300322: cfalcon_161
-    21300324: cfalcon_162
-    21300326: cfalcon_163
-    21300328: cfalcon_164
-    21300330: cfalcon_165
-    21300332: cfalcon_166
-    21300334: cfalcon_167
-    21300336: cfalcon_168
-    21300338: cfalcon_169
-    21300340: cfalcon_170
-    21300342: cfalcon_171
-    21300344: cfalcon_172
-    21300346: cfalcon_173
-    21300348: cfalcon_174
-    21300350: cfalcon_175
-    21300352: cfalcon_176
-    21300354: cfalcon_177
-    21300356: cfalcon_178
-    21300358: cfalcon_179
-    21300360: cfalcon_180
-    21300362: cfalcon_181
-    21300364: cfalcon_182
-    21300366: cfalcon_183
-    21300368: cfalcon_184
-    21300370: cfalcon_185
-    21300372: cfalcon_186
-    21300374: cfalcon_187
-    21300376: cfalcon_188
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: cfalcon_0
+  - first:
+      213: 21300002
+    second: cfalcon_1
+  - first:
+      213: 21300004
+    second: cfalcon_2
+  - first:
+      213: 21300006
+    second: cfalcon_3
+  - first:
+      213: 21300008
+    second: cfalcon_4
+  - first:
+      213: 21300010
+    second: cfalcon_5
+  - first:
+      213: 21300012
+    second: cfalcon_6
+  - first:
+      213: 21300014
+    second: cfalcon_7
+  - first:
+      213: 21300016
+    second: cfalcon_8
+  - first:
+      213: 21300018
+    second: cfalcon_9
+  - first:
+      213: 21300020
+    second: cfalcon_10
+  - first:
+      213: 21300022
+    second: cfalcon_11
+  - first:
+      213: 21300024
+    second: cfalcon_12
+  - first:
+      213: 21300026
+    second: cfalcon_13
+  - first:
+      213: 21300028
+    second: cfalcon_14
+  - first:
+      213: 21300030
+    second: cfalcon_15
+  - first:
+      213: 21300032
+    second: cfalcon_16
+  - first:
+      213: 21300034
+    second: cfalcon_17
+  - first:
+      213: 21300036
+    second: cfalcon_18
+  - first:
+      213: 21300038
+    second: cfalcon_19
+  - first:
+      213: 21300040
+    second: cfalcon_20
+  - first:
+      213: 21300042
+    second: cfalcon_21
+  - first:
+      213: 21300044
+    second: cfalcon_22
+  - first:
+      213: 21300046
+    second: cfalcon_23
+  - first:
+      213: 21300048
+    second: cfalcon_24
+  - first:
+      213: 21300050
+    second: cfalcon_25
+  - first:
+      213: 21300052
+    second: cfalcon_26
+  - first:
+      213: 21300054
+    second: cfalcon_27
+  - first:
+      213: 21300056
+    second: cfalcon_28
+  - first:
+      213: 21300058
+    second: cfalcon_29
+  - first:
+      213: 21300060
+    second: cfalcon_30
+  - first:
+      213: 21300062
+    second: cfalcon_31
+  - first:
+      213: 21300064
+    second: cfalcon_32
+  - first:
+      213: 21300066
+    second: cfalcon_33
+  - first:
+      213: 21300068
+    second: cfalcon_34
+  - first:
+      213: 21300070
+    second: cfalcon_35
+  - first:
+      213: 21300072
+    second: cfalcon_36
+  - first:
+      213: 21300074
+    second: cfalcon_37
+  - first:
+      213: 21300076
+    second: cfalcon_38
+  - first:
+      213: 21300078
+    second: cfalcon_39
+  - first:
+      213: 21300080
+    second: cfalcon_40
+  - first:
+      213: 21300082
+    second: cfalcon_41
+  - first:
+      213: 21300084
+    second: cfalcon_42
+  - first:
+      213: 21300086
+    second: cfalcon_43
+  - first:
+      213: 21300088
+    second: cfalcon_44
+  - first:
+      213: 21300090
+    second: cfalcon_45
+  - first:
+      213: 21300092
+    second: cfalcon_46
+  - first:
+      213: 21300094
+    second: cfalcon_47
+  - first:
+      213: 21300096
+    second: cfalcon_48
+  - first:
+      213: 21300098
+    second: cfalcon_49
+  - first:
+      213: 21300100
+    second: cfalcon_50
+  - first:
+      213: 21300102
+    second: cfalcon_51
+  - first:
+      213: 21300104
+    second: cfalcon_52
+  - first:
+      213: 21300106
+    second: cfalcon_53
+  - first:
+      213: 21300108
+    second: cfalcon_54
+  - first:
+      213: 21300110
+    second: cfalcon_55
+  - first:
+      213: 21300112
+    second: cfalcon_56
+  - first:
+      213: 21300114
+    second: cfalcon_57
+  - first:
+      213: 21300116
+    second: cfalcon_58
+  - first:
+      213: 21300118
+    second: cfalcon_59
+  - first:
+      213: 21300120
+    second: cfalcon_60
+  - first:
+      213: 21300122
+    second: cfalcon_61
+  - first:
+      213: 21300124
+    second: cfalcon_62
+  - first:
+      213: 21300126
+    second: cfalcon_63
+  - first:
+      213: 21300128
+    second: cfalcon_64
+  - first:
+      213: 21300130
+    second: cfalcon_65
+  - first:
+      213: 21300132
+    second: cfalcon_66
+  - first:
+      213: 21300134
+    second: cfalcon_67
+  - first:
+      213: 21300136
+    second: cfalcon_68
+  - first:
+      213: 21300138
+    second: cfalcon_69
+  - first:
+      213: 21300140
+    second: cfalcon_70
+  - first:
+      213: 21300142
+    second: cfalcon_71
+  - first:
+      213: 21300144
+    second: cfalcon_72
+  - first:
+      213: 21300146
+    second: cfalcon_73
+  - first:
+      213: 21300148
+    second: cfalcon_74
+  - first:
+      213: 21300150
+    second: cfalcon_75
+  - first:
+      213: 21300152
+    second: cfalcon_76
+  - first:
+      213: 21300154
+    second: cfalcon_77
+  - first:
+      213: 21300156
+    second: cfalcon_78
+  - first:
+      213: 21300158
+    second: cfalcon_79
+  - first:
+      213: 21300160
+    second: cfalcon_80
+  - first:
+      213: 21300162
+    second: cfalcon_81
+  - first:
+      213: 21300164
+    second: cfalcon_82
+  - first:
+      213: 21300166
+    second: cfalcon_83
+  - first:
+      213: 21300168
+    second: cfalcon_84
+  - first:
+      213: 21300170
+    second: cfalcon_85
+  - first:
+      213: 21300172
+    second: cfalcon_86
+  - first:
+      213: 21300174
+    second: cfalcon_87
+  - first:
+      213: 21300176
+    second: cfalcon_88
+  - first:
+      213: 21300178
+    second: cfalcon_89
+  - first:
+      213: 21300180
+    second: cfalcon_90
+  - first:
+      213: 21300182
+    second: cfalcon_91
+  - first:
+      213: 21300184
+    second: cfalcon_92
+  - first:
+      213: 21300186
+    second: cfalcon_93
+  - first:
+      213: 21300188
+    second: cfalcon_94
+  - first:
+      213: 21300190
+    second: cfalcon_95
+  - first:
+      213: 21300192
+    second: cfalcon_96
+  - first:
+      213: 21300194
+    second: cfalcon_97
+  - first:
+      213: 21300196
+    second: cfalcon_98
+  - first:
+      213: 21300198
+    second: cfalcon_99
+  - first:
+      213: 21300200
+    second: cfalcon_100
+  - first:
+      213: 21300202
+    second: cfalcon_101
+  - first:
+      213: 21300204
+    second: cfalcon_102
+  - first:
+      213: 21300206
+    second: cfalcon_103
+  - first:
+      213: 21300208
+    second: cfalcon_104
+  - first:
+      213: 21300210
+    second: cfalcon_105
+  - first:
+      213: 21300212
+    second: cfalcon_106
+  - first:
+      213: 21300214
+    second: cfalcon_107
+  - first:
+      213: 21300216
+    second: cfalcon_108
+  - first:
+      213: 21300218
+    second: cfalcon_109
+  - first:
+      213: 21300220
+    second: cfalcon_110
+  - first:
+      213: 21300222
+    second: cfalcon_111
+  - first:
+      213: 21300224
+    second: cfalcon_112
+  - first:
+      213: 21300226
+    second: cfalcon_113
+  - first:
+      213: 21300228
+    second: cfalcon_114
+  - first:
+      213: 21300230
+    second: cfalcon_115
+  - first:
+      213: 21300232
+    second: cfalcon_116
+  - first:
+      213: 21300234
+    second: cfalcon_117
+  - first:
+      213: 21300236
+    second: cfalcon_118
+  - first:
+      213: 21300238
+    second: cfalcon_119
+  - first:
+      213: 21300240
+    second: cfalcon_120
+  - first:
+      213: 21300242
+    second: cfalcon_121
+  - first:
+      213: 21300244
+    second: cfalcon_122
+  - first:
+      213: 21300246
+    second: cfalcon_123
+  - first:
+      213: 21300248
+    second: cfalcon_124
+  - first:
+      213: 21300250
+    second: cfalcon_125
+  - first:
+      213: 21300252
+    second: cfalcon_126
+  - first:
+      213: 21300254
+    second: cfalcon_127
+  - first:
+      213: 21300256
+    second: cfalcon_128
+  - first:
+      213: 21300258
+    second: cfalcon_129
+  - first:
+      213: 21300260
+    second: cfalcon_130
+  - first:
+      213: 21300262
+    second: cfalcon_131
+  - first:
+      213: 21300264
+    second: cfalcon_132
+  - first:
+      213: 21300266
+    second: cfalcon_133
+  - first:
+      213: 21300268
+    second: cfalcon_134
+  - first:
+      213: 21300270
+    second: cfalcon_135
+  - first:
+      213: 21300272
+    second: cfalcon_136
+  - first:
+      213: 21300274
+    second: cfalcon_137
+  - first:
+      213: 21300276
+    second: cfalcon_138
+  - first:
+      213: 21300278
+    second: cfalcon_139
+  - first:
+      213: 21300280
+    second: cfalcon_140
+  - first:
+      213: 21300282
+    second: cfalcon_141
+  - first:
+      213: 21300284
+    second: cfalcon_142
+  - first:
+      213: 21300286
+    second: cfalcon_143
+  - first:
+      213: 21300288
+    second: cfalcon_144
+  - first:
+      213: 21300290
+    second: cfalcon_145
+  - first:
+      213: 21300292
+    second: cfalcon_146
+  - first:
+      213: 21300294
+    second: cfalcon_147
+  - first:
+      213: 21300296
+    second: cfalcon_148
+  - first:
+      213: 21300298
+    second: cfalcon_149
+  - first:
+      213: 21300300
+    second: cfalcon_150
+  - first:
+      213: 21300302
+    second: cfalcon_151
+  - first:
+      213: 21300304
+    second: cfalcon_152
+  - first:
+      213: 21300306
+    second: cfalcon_153
+  - first:
+      213: 21300308
+    second: cfalcon_154
+  - first:
+      213: 21300310
+    second: cfalcon_155
+  - first:
+      213: 21300312
+    second: cfalcon_156
+  - first:
+      213: 21300314
+    second: cfalcon_157
+  - first:
+      213: 21300316
+    second: cfalcon_158
+  - first:
+      213: 21300318
+    second: cfalcon_159
+  - first:
+      213: 21300320
+    second: cfalcon_160
+  - first:
+      213: 21300322
+    second: cfalcon_161
+  - first:
+      213: 21300324
+    second: cfalcon_162
+  - first:
+      213: 21300326
+    second: cfalcon_163
+  - first:
+      213: 21300328
+    second: cfalcon_164
+  - first:
+      213: 21300330
+    second: cfalcon_165
+  - first:
+      213: 21300332
+    second: cfalcon_166
+  - first:
+      213: 21300334
+    second: cfalcon_167
+  - first:
+      213: 21300336
+    second: cfalcon_168
+  - first:
+      213: 21300338
+    second: cfalcon_169
+  - first:
+      213: 21300340
+    second: cfalcon_170
+  - first:
+      213: 21300342
+    second: cfalcon_171
+  - first:
+      213: 21300344
+    second: cfalcon_172
+  - first:
+      213: 21300346
+    second: cfalcon_173
+  - first:
+      213: 21300348
+    second: cfalcon_174
+  - first:
+      213: 21300350
+    second: cfalcon_175
+  - first:
+      213: 21300352
+    second: cfalcon_176
+  - first:
+      213: 21300354
+    second: cfalcon_177
+  - first:
+      213: 21300356
+    second: cfalcon_178
+  - first:
+      213: 21300358
+    second: cfalcon_179
+  - first:
+      213: 21300360
+    second: cfalcon_180
+  - first:
+      213: 21300362
+    second: cfalcon_181
+  - first:
+      213: 21300364
+    second: cfalcon_182
+  - first:
+      213: 21300366
+    second: cfalcon_183
+  - first:
+      213: 21300368
+    second: cfalcon_184
+  - first:
+      213: 21300370
+    second: cfalcon_185
+  - first:
+      213: 21300372
+    second: cfalcon_186
+  - first:
+      213: 21300374
+    second: cfalcon_187
+  - first:
+      213: 21300376
+    second: cfalcon_188
+  externalObjects: {}
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -209,37 +588,61 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
-  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: cfalcon_0
+    - serializedVersion: 2
+      name: cfalcon_0
       rect:
         serializedVersion: 2
         x: 21
@@ -250,7 +653,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_1
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_1
       rect:
         serializedVersion: 2
         x: 143
@@ -261,7 +674,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_2
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_2
       rect:
         serializedVersion: 2
         x: 261
@@ -272,7 +695,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_3
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_3
       rect:
         serializedVersion: 2
         x: 380
@@ -283,7 +716,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_4
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_4
       rect:
         serializedVersion: 2
         x: 13
@@ -294,7 +737,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_5
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_5
       rect:
         serializedVersion: 2
         x: 143
@@ -305,7 +758,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_6
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_6
       rect:
         serializedVersion: 2
         x: 258
@@ -316,7 +779,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_7
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_7
       rect:
         serializedVersion: 2
         x: 368
@@ -327,7 +800,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_8
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_8
       rect:
         serializedVersion: 2
         x: 17
@@ -338,7 +821,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_9
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_9
       rect:
         serializedVersion: 2
         x: 139
@@ -349,7 +842,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_10
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_10
       rect:
         serializedVersion: 2
         x: 269
@@ -360,7 +863,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_11
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_11
       rect:
         serializedVersion: 2
         x: 380
@@ -371,7 +884,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_12
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_12
       rect:
         serializedVersion: 2
         x: 21
@@ -382,7 +905,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_13
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_13
       rect:
         serializedVersion: 2
         x: 128
@@ -393,7 +926,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_14
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_14
       rect:
         serializedVersion: 2
         x: 231
@@ -404,7 +947,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_15
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_15
       rect:
         serializedVersion: 2
         x: 326
@@ -415,7 +968,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_16
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_16
       rect:
         serializedVersion: 2
         x: 414
@@ -426,7 +989,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_17
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_17
       rect:
         serializedVersion: 2
         x: 17
@@ -437,7 +1010,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_18
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_18
       rect:
         serializedVersion: 2
         x: 120
@@ -448,7 +1031,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_19
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_19
       rect:
         serializedVersion: 2
         x: 219
@@ -459,7 +1052,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_20
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_20
       rect:
         serializedVersion: 2
         x: 326
@@ -470,7 +1073,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_21
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_21
       rect:
         serializedVersion: 2
         x: 17
@@ -481,7 +1094,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_22
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_22
       rect:
         serializedVersion: 2
         x: 162
@@ -492,7 +1115,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_23
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_23
       rect:
         serializedVersion: 2
         x: 254
@@ -503,7 +1136,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_24
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_24
       rect:
         serializedVersion: 2
         x: 384
@@ -514,7 +1157,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_25
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_25
       rect:
         serializedVersion: 2
         x: 21
@@ -525,7 +1178,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_26
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_26
       rect:
         serializedVersion: 2
         x: 151
@@ -536,7 +1199,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_27
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_27
       rect:
         serializedVersion: 2
         x: 296
@@ -547,7 +1220,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_28
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_28
       rect:
         serializedVersion: 2
         x: 13
@@ -558,7 +1241,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_29
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_29
       rect:
         serializedVersion: 2
         x: 147
@@ -569,7 +1262,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_30
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_30
       rect:
         serializedVersion: 2
         x: 269
@@ -580,7 +1283,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_31
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_31
       rect:
         serializedVersion: 2
         x: 387
@@ -591,7 +1304,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_32
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_32
       rect:
         serializedVersion: 2
         x: 17
@@ -602,7 +1325,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_33
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_33
       rect:
         serializedVersion: 2
         x: 189
@@ -613,7 +1346,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_34
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_34
       rect:
         serializedVersion: 2
         x: 17
@@ -624,7 +1367,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_35
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_35
       rect:
         serializedVersion: 2
         x: 193
@@ -635,7 +1388,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_36
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_36
       rect:
         serializedVersion: 2
         x: 349
@@ -646,7 +1409,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_37
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_37
       rect:
         serializedVersion: 2
         x: 25
@@ -657,7 +1430,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_38
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_38
       rect:
         serializedVersion: 2
         x: 166
@@ -668,7 +1451,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_39
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_39
       rect:
         serializedVersion: 2
         x: 330
@@ -679,7 +1472,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_40
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_40
       rect:
         serializedVersion: 2
         x: 6
@@ -690,7 +1493,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_41
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_41
       rect:
         serializedVersion: 2
         x: 177
@@ -701,7 +1514,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_42
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_42
       rect:
         serializedVersion: 2
         x: 334
@@ -712,7 +1535,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_43
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_43
       rect:
         serializedVersion: 2
         x: 17
@@ -723,7 +1556,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_44
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_44
       rect:
         serializedVersion: 2
         x: 143
@@ -734,7 +1577,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_45
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_45
       rect:
         serializedVersion: 2
         x: 269
@@ -745,7 +1598,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_46
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_46
       rect:
         serializedVersion: 2
         x: 17
@@ -756,7 +1619,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_47
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_47
       rect:
         serializedVersion: 2
         x: 174
@@ -767,7 +1640,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_48
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_48
       rect:
         serializedVersion: 2
         x: 338
@@ -778,7 +1661,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_49
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_49
       rect:
         serializedVersion: 2
         x: 25
@@ -789,7 +1682,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_50
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_50
       rect:
         serializedVersion: 2
         x: 166
@@ -800,7 +1703,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_51
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_51
       rect:
         serializedVersion: 2
         x: 296
@@ -811,7 +1724,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_52
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_52
       rect:
         serializedVersion: 2
         x: 380
@@ -822,7 +1745,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_53
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_53
       rect:
         serializedVersion: 2
         x: 25
@@ -833,7 +1766,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_54
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_54
       rect:
         serializedVersion: 2
         x: 147
@@ -844,7 +1787,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_55
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_55
       rect:
         serializedVersion: 2
         x: 281
@@ -855,7 +1808,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_56
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_56
       rect:
         serializedVersion: 2
         x: 17
@@ -866,7 +1829,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_57
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_57
       rect:
         serializedVersion: 2
         x: 132
@@ -877,7 +1850,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_58
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_58
       rect:
         serializedVersion: 2
         x: 258
@@ -888,7 +1871,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_59
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_59
       rect:
         serializedVersion: 2
         x: 376
@@ -899,7 +1892,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_60
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_60
       rect:
         serializedVersion: 2
         x: 13
@@ -910,7 +1913,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_61
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_61
       rect:
         serializedVersion: 2
         x: 139
@@ -921,7 +1934,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_62
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_62
       rect:
         serializedVersion: 2
         x: 261
@@ -932,7 +1955,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_63
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_63
       rect:
         serializedVersion: 2
         x: 391
@@ -943,7 +1976,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_64
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_64
       rect:
         serializedVersion: 2
         x: 36
@@ -954,7 +1997,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_65
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_65
       rect:
         serializedVersion: 2
         x: 143
@@ -965,7 +2018,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_66
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_66
       rect:
         serializedVersion: 2
         x: 246
@@ -976,7 +2039,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_67
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_67
       rect:
         serializedVersion: 2
         x: 342
@@ -987,7 +2060,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_68
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_68
       rect:
         serializedVersion: 2
         x: 13
@@ -998,7 +2081,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_69
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_69
       rect:
         serializedVersion: 2
         x: 143
@@ -1009,7 +2102,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_70
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_70
       rect:
         serializedVersion: 2
         x: 300
@@ -1020,7 +2123,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_71
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_71
       rect:
         serializedVersion: 2
         x: 395
@@ -1031,7 +2144,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_72
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_72
       rect:
         serializedVersion: 2
         x: 17
@@ -1042,7 +2165,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_73
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_73
       rect:
         serializedVersion: 2
         x: 139
@@ -1053,7 +2186,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_74
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_74
       rect:
         serializedVersion: 2
         x: 250
@@ -1064,7 +2207,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_75
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_75
       rect:
         serializedVersion: 2
         x: 380
@@ -1075,7 +2228,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_76
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_76
       rect:
         serializedVersion: 2
         x: 0
@@ -1086,7 +2249,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_77
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_77
       rect:
         serializedVersion: 2
         x: 17
@@ -1097,7 +2270,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_78
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_78
       rect:
         serializedVersion: 2
         x: 143
@@ -1108,7 +2291,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_79
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_79
       rect:
         serializedVersion: 2
         x: 265
@@ -1119,7 +2312,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_80
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_80
       rect:
         serializedVersion: 2
         x: 387
@@ -1130,7 +2333,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_81
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_81
       rect:
         serializedVersion: 2
         x: 25
@@ -1141,7 +2354,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_82
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_82
       rect:
         serializedVersion: 2
         x: 120
@@ -1152,7 +2375,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_83
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_83
       rect:
         serializedVersion: 2
         x: 269
@@ -1163,7 +2396,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_84
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_84
       rect:
         serializedVersion: 2
         x: 372
@@ -1174,7 +2417,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_85
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_85
       rect:
         serializedVersion: 2
         x: 120
@@ -1185,7 +2438,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_86
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_86
       rect:
         serializedVersion: 2
         x: 357
@@ -1196,7 +2459,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_87
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_87
       rect:
         serializedVersion: 2
         x: 13
@@ -1207,7 +2480,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_88
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_88
       rect:
         serializedVersion: 2
         x: 136
@@ -1218,7 +2501,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_89
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_89
       rect:
         serializedVersion: 2
         x: 261
@@ -1229,7 +2522,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_90
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_90
       rect:
         serializedVersion: 2
         x: 17
@@ -1240,7 +2543,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_91
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_91
       rect:
         serializedVersion: 2
         x: 143
@@ -1251,7 +2564,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_92
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_92
       rect:
         serializedVersion: 2
         x: 265
@@ -1262,7 +2585,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_93
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_93
       rect:
         serializedVersion: 2
         x: 380
@@ -1273,7 +2606,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_94
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_94
       rect:
         serializedVersion: 2
         x: 17
@@ -1284,7 +2627,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_95
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_95
       rect:
         serializedVersion: 2
         x: 158
@@ -1295,7 +2648,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_96
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_96
       rect:
         serializedVersion: 2
         x: 319
@@ -1306,7 +2669,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_97
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_97
       rect:
         serializedVersion: 2
         x: 21
@@ -1317,7 +2690,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_98
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_98
       rect:
         serializedVersion: 2
         x: 151
@@ -1328,7 +2711,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_99
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_99
       rect:
         serializedVersion: 2
         x: 296
@@ -1339,7 +2732,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_100
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_100
       rect:
         serializedVersion: 2
         x: 17
@@ -1350,7 +2753,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_101
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_101
       rect:
         serializedVersion: 2
         x: 189
@@ -1361,7 +2774,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_102
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_102
       rect:
         serializedVersion: 2
         x: 193
@@ -1372,7 +2795,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_103
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_103
       rect:
         serializedVersion: 2
         x: 349
@@ -1383,7 +2816,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_104
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_104
       rect:
         serializedVersion: 2
         x: 25
@@ -1394,7 +2837,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_105
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_105
       rect:
         serializedVersion: 2
         x: 166
@@ -1405,7 +2858,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_106
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_106
       rect:
         serializedVersion: 2
         x: 6
@@ -1416,7 +2879,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_107
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_107
       rect:
         serializedVersion: 2
         x: 177
@@ -1427,7 +2900,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_108
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_108
       rect:
         serializedVersion: 2
         x: 334
@@ -1438,7 +2921,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_109
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_109
       rect:
         serializedVersion: 2
         x: 17
@@ -1449,7 +2942,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_110
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_110
       rect:
         serializedVersion: 2
         x: 143
@@ -1460,7 +2963,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_111
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_111
       rect:
         serializedVersion: 2
         x: 269
@@ -1471,7 +2984,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_112
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_112
       rect:
         serializedVersion: 2
         x: 174
@@ -1482,7 +3005,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_113
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_113
       rect:
         serializedVersion: 2
         x: 25
@@ -1493,7 +3026,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_114
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_114
       rect:
         serializedVersion: 2
         x: 200
@@ -1504,7 +3047,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_115
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_115
       rect:
         serializedVersion: 2
         x: 315
@@ -1515,7 +3068,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_116
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_116
       rect:
         serializedVersion: 2
         x: 300
@@ -1526,7 +3089,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_117
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_117
       rect:
         serializedVersion: 2
         x: 395
@@ -1537,7 +3110,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_118
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_118
       rect:
         serializedVersion: 2
         x: 17
@@ -1548,7 +3131,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_119
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_119
       rect:
         serializedVersion: 2
         x: 139
@@ -1559,7 +3152,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_120
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_120
       rect:
         serializedVersion: 2
         x: 254
@@ -1570,7 +3173,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_121
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_121
       rect:
         serializedVersion: 2
         x: 376
@@ -1581,7 +3194,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_122
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_122
       rect:
         serializedVersion: 2
         x: 40
@@ -1592,7 +3215,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_123
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_123
       rect:
         serializedVersion: 2
         x: 391
@@ -1603,7 +3236,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_124
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_124
       rect:
         serializedVersion: 2
         x: 399
@@ -1614,7 +3257,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_125
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_125
       rect:
         serializedVersion: 2
         x: 204
@@ -1625,7 +3278,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_126
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_126
       rect:
         serializedVersion: 2
         x: 334
@@ -1636,7 +3299,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_127
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_127
       rect:
         serializedVersion: 2
         x: 32
@@ -1647,7 +3320,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_128
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_128
       rect:
         serializedVersion: 2
         x: 162
@@ -1658,7 +3341,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_129
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_129
       rect:
         serializedVersion: 2
         x: 17
@@ -1669,7 +3362,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_130
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_130
       rect:
         serializedVersion: 2
         x: 227
@@ -1680,7 +3383,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_131
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_131
       rect:
         serializedVersion: 2
         x: 296
@@ -1691,7 +3404,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_132
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_132
       rect:
         serializedVersion: 2
         x: 357
@@ -1702,7 +3425,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_133
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_133
       rect:
         serializedVersion: 2
         x: 21
@@ -1713,7 +3446,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_134
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_134
       rect:
         serializedVersion: 2
         x: 17
@@ -1724,7 +3467,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_135
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_135
       rect:
         serializedVersion: 2
         x: 29
@@ -1735,7 +3488,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_136
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_136
       rect:
         serializedVersion: 2
         x: 113
@@ -1746,7 +3509,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_137
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_137
       rect:
         serializedVersion: 2
         x: 220
@@ -1757,7 +3530,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_138
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_138
       rect:
         serializedVersion: 2
         x: 296
@@ -1768,7 +3551,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_139
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_139
       rect:
         serializedVersion: 2
         x: 29
@@ -1779,7 +3572,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_140
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_140
       rect:
         serializedVersion: 2
         x: 151
@@ -1790,7 +3593,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_141
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_141
       rect:
         serializedVersion: 2
         x: 162
@@ -1801,7 +3614,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_142
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_142
       rect:
         serializedVersion: 2
         x: 109
@@ -1812,7 +3635,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_143
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_143
       rect:
         serializedVersion: 2
         x: 242
@@ -1823,7 +3656,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_144
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_144
       rect:
         serializedVersion: 2
         x: 281
@@ -1834,7 +3677,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_145
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_145
       rect:
         serializedVersion: 2
         x: 342
@@ -1845,7 +3698,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_146
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_146
       rect:
         serializedVersion: 2
         x: 380
@@ -1856,7 +3719,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_147
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_147
       rect:
         serializedVersion: 2
         x: 235
@@ -1867,7 +3740,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_148
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_148
       rect:
         serializedVersion: 2
         x: 254
@@ -1878,7 +3761,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_149
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_149
       rect:
         serializedVersion: 2
         x: 67
@@ -1889,7 +3782,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_150
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_150
       rect:
         serializedVersion: 2
         x: 265
@@ -1900,7 +3803,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_151
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_151
       rect:
         serializedVersion: 2
         x: 132
@@ -1911,7 +3824,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_152
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_152
       rect:
         serializedVersion: 2
         x: 155
@@ -1922,7 +3845,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_153
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_153
       rect:
         serializedVersion: 2
         x: 239
@@ -1933,7 +3866,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_154
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_154
       rect:
         serializedVersion: 2
         x: 273
@@ -1944,7 +3887,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_155
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_155
       rect:
         serializedVersion: 2
         x: 32
@@ -1955,7 +3908,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_156
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_156
       rect:
         serializedVersion: 2
         x: 143
@@ -1966,7 +3929,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_157
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_157
       rect:
         serializedVersion: 2
         x: 231
@@ -1977,7 +3950,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_158
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_158
       rect:
         serializedVersion: 2
         x: 323
@@ -1988,7 +3971,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_159
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_159
       rect:
         serializedVersion: 2
         x: 406
@@ -1999,7 +3992,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_160
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_160
       rect:
         serializedVersion: 2
         x: 63
@@ -2010,7 +4013,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_161
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_161
       rect:
         serializedVersion: 2
         x: 155
@@ -2021,7 +4034,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_162
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_162
       rect:
         serializedVersion: 2
         x: 204
@@ -2032,7 +4055,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_163
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_163
       rect:
         serializedVersion: 2
         x: 437
@@ -2043,7 +4076,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_164
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_164
       rect:
         serializedVersion: 2
         x: 74
@@ -2054,7 +4097,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_165
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_165
       rect:
         serializedVersion: 2
         x: 86
@@ -2065,7 +4118,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_166
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_166
       rect:
         serializedVersion: 2
         x: 166
@@ -2076,7 +4139,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_167
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_167
       rect:
         serializedVersion: 2
         x: 177
@@ -2087,7 +4160,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_168
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_168
       rect:
         serializedVersion: 2
         x: 437
@@ -2098,7 +4181,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_169
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_169
       rect:
         serializedVersion: 2
         x: 86
@@ -2109,7 +4202,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_170
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27405410000000000800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_170
       rect:
         serializedVersion: 2
         x: 13
@@ -2119,19 +4222,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -7.594, y: 20.761993}
-        - {x: -17.594, y: 20.761993}
-        - {x: -17.594, y: 11.761993}
-        - {x: -14.594, y: 6.7619934}
-        - {x: 0.40600014, y: -13.238007}
-        - {x: 12.406, y: -19.238007}
-        - {x: 18.406, y: -19.238007}
-        - {x: 18.406, y: -9.238007}
-        - {x: 17.406, y: -7.2380066}
-        - {x: 16.406, y: -2.2380066}
-        - {x: 0.40600014, y: 16.761993}
-    - name: cfalcon_171
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47405410000000000800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_171
       rect:
         serializedVersion: 2
         x: 437
@@ -2142,7 +4244,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_172
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67405410000000000800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_172
       rect:
         serializedVersion: 2
         x: 231
@@ -2153,7 +4265,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_173
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87405410000000000800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_173
       rect:
         serializedVersion: 2
         x: 437
@@ -2164,7 +4286,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_174
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7405410000000000800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_174
       rect:
         serializedVersion: 2
         x: 437
@@ -2175,7 +4307,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_175
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7405410000000000800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_175
       rect:
         serializedVersion: 2
         x: 437
@@ -2186,7 +4328,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_176
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7405410000000000800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_176
       rect:
         serializedVersion: 2
         x: 17
@@ -2196,16 +4348,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -17.046, y: 20.294006}
-        - {x: -17.046, y: 12.294006}
-        - {x: -8.046, y: -7.7059937}
-        - {x: -1.0459995, y: -16.705994}
-        - {x: 13.954, y: -18.705994}
-        - {x: 17.954, y: -18.705994}
-        - {x: 17.954, y: 1.2940063}
-        - {x: -4.0459995, y: 20.294006}
-    - name: cfalcon_177
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08405410000000000800000000000000
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_177
       rect:
         serializedVersion: 2
         x: 216
@@ -2216,7 +4370,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_178
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28405410000000000800000000000000
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_178
       rect:
         serializedVersion: 2
         x: 384
@@ -2227,7 +4391,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_179
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48405410000000000800000000000000
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_179
       rect:
         serializedVersion: 2
         x: 92
@@ -2238,7 +4412,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_180
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68405410000000000800000000000000
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_180
       rect:
         serializedVersion: 2
         x: 105
@@ -2249,7 +4433,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_181
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88405410000000000800000000000000
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_181
       rect:
         serializedVersion: 2
         x: 94
@@ -2260,7 +4454,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_182
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8405410000000000800000000000000
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_182
       rect:
         serializedVersion: 2
         x: 116
@@ -2271,7 +4475,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_183
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8405410000000000800000000000000
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_183
       rect:
         serializedVersion: 2
         x: 284
@@ -2282,7 +4496,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_184
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8405410000000000800000000000000
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_184
       rect:
         serializedVersion: 2
         x: 82
@@ -2293,7 +4517,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_185
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09405410000000000800000000000000
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_185
       rect:
         serializedVersion: 2
         x: 223
@@ -2304,7 +4538,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_186
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29405410000000000800000000000000
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_186
       rect:
         serializedVersion: 2
         x: 338
@@ -2315,7 +4559,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_187
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49405410000000000800000000000000
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_187
       rect:
         serializedVersion: 2
         x: 63
@@ -2326,7 +4580,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: cfalcon_188
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69405410000000000800000000000000
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cfalcon_188
       rect:
         serializedVersion: 2
         x: 219
@@ -2337,8 +4601,28 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89405410000000000800000000000000
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

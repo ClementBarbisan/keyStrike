@@ -1,180 +1,507 @@
 fileFormatVersion: 2
 guid: 02b7a58a201964f879c59e80bb604102
-timeCreated: 1465562019
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Lapin sprite_0
-    21300002: Lapin sprite_1
-    21300004: Lapin sprite_2
-    21300006: Lapin sprite_3
-    21300008: Lapin sprite_4
-    21300010: Lapin sprite_5
-    21300012: Lapin sprite_6
-    21300014: Lapin sprite_7
-    21300016: Lapin sprite_8
-    21300018: Lapin sprite_9
-    21300020: Lapin sprite_10
-    21300022: Lapin sprite_11
-    21300024: Lapin sprite_12
-    21300026: Lapin sprite_13
-    21300028: Lapin sprite_14
-    21300030: Lapin sprite_15
-    21300032: Lapin sprite_16
-    21300034: Lapin sprite_17
-    21300036: Lapin sprite_18
-    21300038: Lapin sprite_19
-    21300040: Lapin sprite_20
-    21300042: Lapin sprite_21
-    21300044: Lapin sprite_22
-    21300046: Lapin sprite_23
-    21300048: Lapin sprite_24
-    21300050: Lapin sprite_25
-    21300052: Lapin sprite_26
-    21300054: Lapin sprite_27
-    21300056: Lapin sprite_28
-    21300058: Lapin sprite_29
-    21300060: Lapin sprite_30
-    21300062: Lapin sprite_31
-    21300064: Lapin sprite_32
-    21300066: Lapin sprite_33
-    21300068: Lapin sprite_34
-    21300070: Lapin sprite_35
-    21300072: Lapin sprite_36
-    21300074: Lapin sprite_37
-    21300076: Lapin sprite_38
-    21300078: Lapin sprite_39
-    21300080: Lapin sprite_40
-    21300082: Lapin sprite_41
-    21300084: Lapin sprite_42
-    21300086: Lapin sprite_43
-    21300088: Lapin sprite_44
-    21300090: Lapin sprite_45
-    21300092: Lapin sprite_46
-    21300094: Lapin sprite_47
-    21300096: Lapin sprite_48
-    21300098: Lapin sprite_49
-    21300100: Lapin sprite_50
-    21300102: Lapin sprite_51
-    21300104: Lapin sprite_52
-    21300106: Lapin sprite_53
-    21300108: Lapin sprite_54
-    21300110: Lapin sprite_55
-    21300112: Lapin sprite_56
-    21300114: Lapin sprite_57
-    21300116: Lapin sprite_58
-    21300118: Lapin sprite_59
-    21300120: Lapin sprite_60
-    21300122: Lapin sprite_61
-    21300124: Lapin sprite_62
-    21300126: Lapin sprite_63
-    21300128: Lapin sprite_64
-    21300130: Lapin sprite_65
-    21300132: Lapin sprite_66
-    21300134: Lapin sprite_67
-    21300136: Lapin sprite_68
-    21300138: Lapin sprite_69
-    21300140: Lapin sprite_70
-    21300142: Lapin sprite_71
-    21300144: Lapin sprite_72
-    21300146: Lapin sprite_73
-    21300148: Lapin sprite_74
-    21300150: Lapin sprite_75
-    21300152: Lapin sprite_76
-    21300154: Lapin sprite_77
-    21300156: Lapin sprite_78
-    21300158: Lapin sprite_79
-    21300160: Lapin sprite_80
-    21300162: Lapin sprite_81
-    21300164: Lapin sprite_82
-    21300166: Lapin sprite_83
-    21300168: Lapin sprite_84
-    21300170: Lapin sprite_85
-    21300172: Lapin sprite_86
-    21300174: Lapin sprite_87
-    21300176: Lapin sprite_88
-    21300178: Lapin sprite_89
-    21300180: Lapin sprite_90
-    21300182: Lapin sprite_91
-    21300184: Lapin sprite_92
-    21300186: Lapin sprite_93
-    21300188: Lapin sprite_94
-    21300190: Lapin sprite_95
-    21300192: Lapin sprite_96
-    21300194: Lapin sprite_97
-    21300196: Lapin sprite_98
-    21300198: Lapin sprite_99
-    21300200: Lapin sprite_100
-    21300202: Lapin sprite_101
-    21300204: Lapin sprite_102
-    21300206: Lapin sprite_103
-    21300208: Lapin sprite_104
-    21300210: Lapin sprite_105
-    21300212: Lapin sprite_106
-    21300214: Lapin sprite_107
-    21300216: Lapin sprite_108
-    21300218: Lapin sprite_109
-    21300220: Lapin sprite_110
-    21300222: Lapin sprite_111
-    21300224: Lapin sprite_112
-    21300226: Lapin sprite_113
-    21300228: Lapin sprite_114
-    21300230: Lapin sprite_115
-    21300232: Lapin sprite_116
-    21300234: Lapin sprite_117
-    21300236: Lapin sprite_118
-    21300238: Lapin sprite_119
-    21300240: Lapin sprite_120
-    21300242: Lapin sprite_121
-    21300244: Lapin sprite_122
-    21300246: Lapin sprite_123
-    21300248: Lapin sprite_124
-    21300250: Lapin sprite_125
-    21300252: Lapin sprite_126
-    21300254: Lapin sprite_127
-    21300256: Lapin sprite_128
-    21300258: Lapin sprite_129
-    21300260: Lapin sprite_130
-    21300262: Lapin sprite_131
-    21300264: Lapin sprite_132
-    21300266: Lapin sprite_133
-    21300268: Lapin sprite_134
-    21300270: Lapin sprite_135
-    21300272: Lapin sprite_136
-    21300274: Lapin sprite_137
-    21300276: Lapin sprite_138
-    21300278: Lapin sprite_139
-    21300280: Lapin sprite_140
-    21300282: Lapin sprite_141
-    21300284: Lapin sprite_142
-    21300286: Lapin sprite_143
-    21300288: Lapin sprite_144
-    21300290: Lapin sprite_145
-    21300292: Lapin sprite_146
-    21300294: Lapin sprite_147
-    21300296: Lapin sprite_148
-    21300298: Lapin sprite_149
-    21300300: Lapin sprite_150
-    21300302: Lapin sprite_151
-    21300304: Lapin sprite_152
-    21300306: Lapin sprite_153
-    21300308: Lapin sprite_154
-    21300310: Lapin sprite_155
-    21300312: Lapin sprite_156
-    21300314: Lapin sprite_157
-    21300316: Lapin sprite_158
-    21300318: Lapin sprite_159
-    21300320: Lapin sprite_160
-    21300322: Lapin sprite_161
-    21300324: Lapin sprite_162
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Lapin sprite_0
+  - first:
+      213: 21300002
+    second: Lapin sprite_1
+  - first:
+      213: 21300004
+    second: Lapin sprite_2
+  - first:
+      213: 21300006
+    second: Lapin sprite_3
+  - first:
+      213: 21300008
+    second: Lapin sprite_4
+  - first:
+      213: 21300010
+    second: Lapin sprite_5
+  - first:
+      213: 21300012
+    second: Lapin sprite_6
+  - first:
+      213: 21300014
+    second: Lapin sprite_7
+  - first:
+      213: 21300016
+    second: Lapin sprite_8
+  - first:
+      213: 21300018
+    second: Lapin sprite_9
+  - first:
+      213: 21300020
+    second: Lapin sprite_10
+  - first:
+      213: 21300022
+    second: Lapin sprite_11
+  - first:
+      213: 21300024
+    second: Lapin sprite_12
+  - first:
+      213: 21300026
+    second: Lapin sprite_13
+  - first:
+      213: 21300028
+    second: Lapin sprite_14
+  - first:
+      213: 21300030
+    second: Lapin sprite_15
+  - first:
+      213: 21300032
+    second: Lapin sprite_16
+  - first:
+      213: 21300034
+    second: Lapin sprite_17
+  - first:
+      213: 21300036
+    second: Lapin sprite_18
+  - first:
+      213: 21300038
+    second: Lapin sprite_19
+  - first:
+      213: 21300040
+    second: Lapin sprite_20
+  - first:
+      213: 21300042
+    second: Lapin sprite_21
+  - first:
+      213: 21300044
+    second: Lapin sprite_22
+  - first:
+      213: 21300046
+    second: Lapin sprite_23
+  - first:
+      213: 21300048
+    second: Lapin sprite_24
+  - first:
+      213: 21300050
+    second: Lapin sprite_25
+  - first:
+      213: 21300052
+    second: Lapin sprite_26
+  - first:
+      213: 21300054
+    second: Lapin sprite_27
+  - first:
+      213: 21300056
+    second: Lapin sprite_28
+  - first:
+      213: 21300058
+    second: Lapin sprite_29
+  - first:
+      213: 21300060
+    second: Lapin sprite_30
+  - first:
+      213: 21300062
+    second: Lapin sprite_31
+  - first:
+      213: 21300064
+    second: Lapin sprite_32
+  - first:
+      213: 21300066
+    second: Lapin sprite_33
+  - first:
+      213: 21300068
+    second: Lapin sprite_34
+  - first:
+      213: 21300070
+    second: Lapin sprite_35
+  - first:
+      213: 21300072
+    second: Lapin sprite_36
+  - first:
+      213: 21300074
+    second: Lapin sprite_37
+  - first:
+      213: 21300076
+    second: Lapin sprite_38
+  - first:
+      213: 21300078
+    second: Lapin sprite_39
+  - first:
+      213: 21300080
+    second: Lapin sprite_40
+  - first:
+      213: 21300082
+    second: Lapin sprite_41
+  - first:
+      213: 21300084
+    second: Lapin sprite_42
+  - first:
+      213: 21300086
+    second: Lapin sprite_43
+  - first:
+      213: 21300088
+    second: Lapin sprite_44
+  - first:
+      213: 21300090
+    second: Lapin sprite_45
+  - first:
+      213: 21300092
+    second: Lapin sprite_46
+  - first:
+      213: 21300094
+    second: Lapin sprite_47
+  - first:
+      213: 21300096
+    second: Lapin sprite_48
+  - first:
+      213: 21300098
+    second: Lapin sprite_49
+  - first:
+      213: 21300100
+    second: Lapin sprite_50
+  - first:
+      213: 21300102
+    second: Lapin sprite_51
+  - first:
+      213: 21300104
+    second: Lapin sprite_52
+  - first:
+      213: 21300106
+    second: Lapin sprite_53
+  - first:
+      213: 21300108
+    second: Lapin sprite_54
+  - first:
+      213: 21300110
+    second: Lapin sprite_55
+  - first:
+      213: 21300112
+    second: Lapin sprite_56
+  - first:
+      213: 21300114
+    second: Lapin sprite_57
+  - first:
+      213: 21300116
+    second: Lapin sprite_58
+  - first:
+      213: 21300118
+    second: Lapin sprite_59
+  - first:
+      213: 21300120
+    second: Lapin sprite_60
+  - first:
+      213: 21300122
+    second: Lapin sprite_61
+  - first:
+      213: 21300124
+    second: Lapin sprite_62
+  - first:
+      213: 21300126
+    second: Lapin sprite_63
+  - first:
+      213: 21300128
+    second: Lapin sprite_64
+  - first:
+      213: 21300130
+    second: Lapin sprite_65
+  - first:
+      213: 21300132
+    second: Lapin sprite_66
+  - first:
+      213: 21300134
+    second: Lapin sprite_67
+  - first:
+      213: 21300136
+    second: Lapin sprite_68
+  - first:
+      213: 21300138
+    second: Lapin sprite_69
+  - first:
+      213: 21300140
+    second: Lapin sprite_70
+  - first:
+      213: 21300142
+    second: Lapin sprite_71
+  - first:
+      213: 21300144
+    second: Lapin sprite_72
+  - first:
+      213: 21300146
+    second: Lapin sprite_73
+  - first:
+      213: 21300148
+    second: Lapin sprite_74
+  - first:
+      213: 21300150
+    second: Lapin sprite_75
+  - first:
+      213: 21300152
+    second: Lapin sprite_76
+  - first:
+      213: 21300154
+    second: Lapin sprite_77
+  - first:
+      213: 21300156
+    second: Lapin sprite_78
+  - first:
+      213: 21300158
+    second: Lapin sprite_79
+  - first:
+      213: 21300160
+    second: Lapin sprite_80
+  - first:
+      213: 21300162
+    second: Lapin sprite_81
+  - first:
+      213: 21300164
+    second: Lapin sprite_82
+  - first:
+      213: 21300166
+    second: Lapin sprite_83
+  - first:
+      213: 21300168
+    second: Lapin sprite_84
+  - first:
+      213: 21300170
+    second: Lapin sprite_85
+  - first:
+      213: 21300172
+    second: Lapin sprite_86
+  - first:
+      213: 21300174
+    second: Lapin sprite_87
+  - first:
+      213: 21300176
+    second: Lapin sprite_88
+  - first:
+      213: 21300178
+    second: Lapin sprite_89
+  - first:
+      213: 21300180
+    second: Lapin sprite_90
+  - first:
+      213: 21300182
+    second: Lapin sprite_91
+  - first:
+      213: 21300184
+    second: Lapin sprite_92
+  - first:
+      213: 21300186
+    second: Lapin sprite_93
+  - first:
+      213: 21300188
+    second: Lapin sprite_94
+  - first:
+      213: 21300190
+    second: Lapin sprite_95
+  - first:
+      213: 21300192
+    second: Lapin sprite_96
+  - first:
+      213: 21300194
+    second: Lapin sprite_97
+  - first:
+      213: 21300196
+    second: Lapin sprite_98
+  - first:
+      213: 21300198
+    second: Lapin sprite_99
+  - first:
+      213: 21300200
+    second: Lapin sprite_100
+  - first:
+      213: 21300202
+    second: Lapin sprite_101
+  - first:
+      213: 21300204
+    second: Lapin sprite_102
+  - first:
+      213: 21300206
+    second: Lapin sprite_103
+  - first:
+      213: 21300208
+    second: Lapin sprite_104
+  - first:
+      213: 21300210
+    second: Lapin sprite_105
+  - first:
+      213: 21300212
+    second: Lapin sprite_106
+  - first:
+      213: 21300214
+    second: Lapin sprite_107
+  - first:
+      213: 21300216
+    second: Lapin sprite_108
+  - first:
+      213: 21300218
+    second: Lapin sprite_109
+  - first:
+      213: 21300220
+    second: Lapin sprite_110
+  - first:
+      213: 21300222
+    second: Lapin sprite_111
+  - first:
+      213: 21300224
+    second: Lapin sprite_112
+  - first:
+      213: 21300226
+    second: Lapin sprite_113
+  - first:
+      213: 21300228
+    second: Lapin sprite_114
+  - first:
+      213: 21300230
+    second: Lapin sprite_115
+  - first:
+      213: 21300232
+    second: Lapin sprite_116
+  - first:
+      213: 21300234
+    second: Lapin sprite_117
+  - first:
+      213: 21300236
+    second: Lapin sprite_118
+  - first:
+      213: 21300238
+    second: Lapin sprite_119
+  - first:
+      213: 21300240
+    second: Lapin sprite_120
+  - first:
+      213: 21300242
+    second: Lapin sprite_121
+  - first:
+      213: 21300244
+    second: Lapin sprite_122
+  - first:
+      213: 21300246
+    second: Lapin sprite_123
+  - first:
+      213: 21300248
+    second: Lapin sprite_124
+  - first:
+      213: 21300250
+    second: Lapin sprite_125
+  - first:
+      213: 21300252
+    second: Lapin sprite_126
+  - first:
+      213: 21300254
+    second: Lapin sprite_127
+  - first:
+      213: 21300256
+    second: Lapin sprite_128
+  - first:
+      213: 21300258
+    second: Lapin sprite_129
+  - first:
+      213: 21300260
+    second: Lapin sprite_130
+  - first:
+      213: 21300262
+    second: Lapin sprite_131
+  - first:
+      213: 21300264
+    second: Lapin sprite_132
+  - first:
+      213: 21300266
+    second: Lapin sprite_133
+  - first:
+      213: 21300268
+    second: Lapin sprite_134
+  - first:
+      213: 21300270
+    second: Lapin sprite_135
+  - first:
+      213: 21300272
+    second: Lapin sprite_136
+  - first:
+      213: 21300274
+    second: Lapin sprite_137
+  - first:
+      213: 21300276
+    second: Lapin sprite_138
+  - first:
+      213: 21300278
+    second: Lapin sprite_139
+  - first:
+      213: 21300280
+    second: Lapin sprite_140
+  - first:
+      213: 21300282
+    second: Lapin sprite_141
+  - first:
+      213: 21300284
+    second: Lapin sprite_142
+  - first:
+      213: 21300286
+    second: Lapin sprite_143
+  - first:
+      213: 21300288
+    second: Lapin sprite_144
+  - first:
+      213: 21300290
+    second: Lapin sprite_145
+  - first:
+      213: 21300292
+    second: Lapin sprite_146
+  - first:
+      213: 21300294
+    second: Lapin sprite_147
+  - first:
+      213: 21300296
+    second: Lapin sprite_148
+  - first:
+      213: 21300298
+    second: Lapin sprite_149
+  - first:
+      213: 21300300
+    second: Lapin sprite_150
+  - first:
+      213: 21300302
+    second: Lapin sprite_151
+  - first:
+      213: 21300304
+    second: Lapin sprite_152
+  - first:
+      213: 21300306
+    second: Lapin sprite_153
+  - first:
+      213: 21300308
+    second: Lapin sprite_154
+  - first:
+      213: 21300310
+    second: Lapin sprite_155
+  - first:
+      213: 21300312
+    second: Lapin sprite_156
+  - first:
+      213: 21300314
+    second: Lapin sprite_157
+  - first:
+      213: 21300316
+    second: Lapin sprite_158
+  - first:
+      213: 21300318
+    second: Lapin sprite_159
+  - first:
+      213: 21300320
+    second: Lapin sprite_160
+  - first:
+      213: 21300322
+    second: Lapin sprite_161
+  - first:
+      213: 21300324
+    second: Lapin sprite_162
+  externalObjects: {}
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -183,37 +510,61 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
-  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: Lapin sprite_0
+    - serializedVersion: 2
+      name: Lapin sprite_0
       rect:
         serializedVersion: 2
         x: 0
@@ -224,7 +575,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_1
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_1
       rect:
         serializedVersion: 2
         x: 928
@@ -235,7 +596,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_2
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_2
       rect:
         serializedVersion: 2
         x: 18
@@ -245,17 +616,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 20.008553, y: 7.7000732}
-        - {x: 17.008553, y: 23.700073}
-        - {x: -6.9914474, y: 23.700073}
-        - {x: -18.991447, y: 12.700073}
-        - {x: -18.991447, y: -22.299927}
-        - {x: -6.9914474, y: -22.299927}
-        - {x: -4.9914474, y: -20.299927}
-        - {x: -1.9914474, y: -22.299927}
-        - {x: 20.008553, y: -22.299927}
-    - name: Lapin sprite_3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_3
       rect:
         serializedVersion: 2
         x: 90
@@ -265,14 +637,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -11.457241, y: 24.700073}
-        - {x: -20.457241, y: 9.700073}
-        - {x: -20.457241, y: -23.299927}
-        - {x: 21.542759, y: -23.299927}
-        - {x: 21.542759, y: -10.299927}
-        - {x: 11.542759, y: 24.700073}
-    - name: Lapin sprite_4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_4
       rect:
         serializedVersion: 2
         x: 170
@@ -282,16 +658,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 15.747429, y: 22.700073}
-        - {x: 15.747429, y: 23.700073}
-        - {x: -10.252571, y: 23.700073}
-        - {x: -19.252571, y: 15.700073}
-        - {x: -19.252571, y: -22.299927}
-        - {x: 19.747429, y: -22.299927}
-        - {x: 19.747429, y: -17.299927}
-        - {x: 18.747429, y: -16.299927}
-    - name: Lapin sprite_5
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_5
       rect:
         serializedVersion: 2
         x: 247
@@ -301,13 +679,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -9.299316, y: 24.700073}
-        - {x: -19.299316, y: 17.700073}
-        - {x: -19.299316, y: -23.299927}
-        - {x: 19.700684, y: -23.299927}
-        - {x: 19.700684, y: 24.700073}
-    - name: Lapin sprite_6
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_6
       rect:
         serializedVersion: 2
         x: 327
@@ -317,20 +700,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 52.40535, y: 27.200073}
-        - {x: -28.59465, y: 27.200073}
-        - {x: -45.59465, y: 8.200073}
-        - {x: -43.59465, y: -1.7999268}
-        - {x: -37.59465, y: -6.7999268}
-        - {x: -49.59465, y: 1.2000732}
-        - {x: -66.59465, y: -7.7999268}
-        - {x: -66.59465, y: -20.799927}
-        - {x: -49.59465, y: -25.799927}
-        - {x: 68.40535, y: -25.799927}
-        - {x: 68.40535, y: -12.799927}
-        - {x: 53.40535, y: 26.200073}
-    - name: Lapin sprite_7
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_7
       rect:
         serializedVersion: 2
         x: 18
@@ -340,14 +721,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -11.491447, y: 25.900146}
-        - {x: -18.491447, y: 13.9001465}
-        - {x: -18.491447, y: -25.099854}
-        - {x: 19.508553, y: -25.099854}
-        - {x: 19.508553, y: 6.9001465}
-        - {x: 12.508553, y: 25.900146}
-    - name: Lapin sprite_8
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_8
       rect:
         serializedVersion: 2
         x: 90
@@ -358,7 +743,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_9
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_9
       rect:
         serializedVersion: 2
         x: 143
@@ -368,15 +763,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 5.984604, y: 24.732544}
-        - {x: -6.015396, y: 24.732544}
-        - {x: -19.015396, y: 16.732544}
-        - {x: -19.015396, y: -24.267456}
-        - {x: 19.984604, y: -24.267456}
-        - {x: 19.984604, y: 10.732544}
-        - {x: 11.984604, y: 21.732544}
-    - name: Lapin sprite_10
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_10
       rect:
         serializedVersion: 2
         x: 218
@@ -387,7 +785,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_11
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_11
       rect:
         serializedVersion: 2
         x: 416
@@ -397,44 +805,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -76.1357, y: -28.699585}
-        - {x: -76.1357, y: -64.699585}
-        - {x: -45.135696, y: -64.699585}
-        - {x: -45.135696, y: -39.699585}
-        - {x: -54.135696, y: -28.699585}
-      - - {x: -20.135696, y: -32.699585}
-        - {x: -26.135696, y: -21.699585}
-        - {x: -37.135696, y: -21.699585}
-        - {x: -43.135696, y: -41.699585}
-        - {x: -44.135696, y: -46.699585}
-        - {x: -44.135696, y: -52.699585}
-        - {x: -43.135696, y: -60.699585}
-        - {x: -38.135696, y: -64.699585}
-        - {x: -14.135696, y: -64.699585}
-        - {x: -7.1356964, y: -50.699585}
-        - {x: -7.1356964, y: -41.699585}
-        - {x: -15.135696, y: -32.699585}
-      - - {x: -76.1357, y: 66.300415}
-        - {x: -76.1357, y: 58.300415}
-        - {x: -53.135696, y: -1.699585}
-        - {x: -25.135696, y: -1.699585}
-        - {x: -24.135696, y: 1.300415}
-        - {x: -24.135696, y: 2.300415}
-        - {x: -10.135696, y: -33.699585}
-        - {x: 20.864304, y: -52.699585}
-        - {x: 41.864304, y: -64.699585}
-        - {x: 69.8643, y: -64.699585}
-        - {x: 77.8643, y: -36.699585}
-        - {x: 77.8643, y: 58.300415}
-        - {x: 32.864304, y: 66.300415}
-      - - {x: -49.135696, y: 29.300415}
-        - {x: -49.135696, y: 24.300415}
-        - {x: -48.135696, y: 23.300415}
-        - {x: -40.135696, y: 23.300415}
-        - {x: -37.135696, y: 26.300415}
-        - {x: -38.135696, y: 29.300415}
-    - name: Lapin sprite_12
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_12
       rect:
         serializedVersion: 2
         x: 18
@@ -444,14 +826,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -10.491447, y: 27.678345}
-        - {x: -26.491447, y: 12.678345}
-        - {x: -26.491447, y: -26.321655}
-        - {x: 27.508553, y: -26.321655}
-        - {x: 27.508553, y: 10.678345}
-        - {x: 7.5085526, y: 27.678345}
-    - name: Lapin sprite_13
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_13
       rect:
         serializedVersion: 2
         x: 119
@@ -461,14 +847,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 0.97320557, y: 28.678345}
-        - {x: -19.026794, y: 28.678345}
-        - {x: -19.026794, y: -27.321655}
-        - {x: 19.973206, y: -27.321655}
-        - {x: 19.973206, y: -0.32165527}
-        - {x: 16.973206, y: 11.678345}
-    - name: Lapin sprite_14
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_14
       rect:
         serializedVersion: 2
         x: 242
@@ -478,16 +868,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 14.781631, y: 13.678345}
-        - {x: 10.781631, y: 26.678345}
-        - {x: -5.2183685, y: 26.678345}
-        - {x: -20.218369, y: 15.678345}
-        - {x: -20.218369, y: -25.321655}
-        - {x: 20.781631, y: -25.321655}
-        - {x: 20.781631, y: -9.321655}
-        - {x: 17.781631, y: 1.6783447}
-    - name: Lapin sprite_15
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_15
       rect:
         serializedVersion: 2
         x: 321
@@ -497,15 +889,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 3.9024963, y: 28.678345}
-        - {x: -14.097504, y: 28.678345}
-        - {x: -19.097504, y: 18.678345}
-        - {x: -19.097504, y: -27.321655}
-        - {x: 19.902496, y: -27.321655}
-        - {x: 19.902496, y: 0.6783447}
-        - {x: 13.902496, y: 20.678345}
-    - name: Lapin sprite_16
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_16
       rect:
         serializedVersion: 2
         x: 18
@@ -515,16 +910,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -15.991447, y: 29.289062}
-        - {x: -19.991447, y: 22.289062}
-        - {x: -19.991447, y: -23.710938}
-        - {x: -18.991447, y: -26.710938}
-        - {x: -17.991447, y: -27.710938}
-        - {x: 21.008553, y: -27.710938}
-        - {x: 21.008553, y: 11.2890625}
-        - {x: 6.0085526, y: 29.289062}
-    - name: Lapin sprite_17
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_17
       rect:
         serializedVersion: 2
         x: 98
@@ -534,20 +931,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 10.213226, y: -28.210938}
-        - {x: 16.213226, y: -27.210938}
-        - {x: 24.213226, y: -21.210938}
-        - {x: 24.213226, y: 14.7890625}
-        - {x: 11.213226, y: 29.789062}
-        - {x: -10.786774, y: 29.789062}
-        - {x: -23.786774, y: -11.2109375}
-        - {x: -23.786774, y: -28.210938}
-        - {x: -11.786774, y: -28.210938}
-        - {x: -9.786774, y: -24.210938}
-        - {x: -9.786774, y: -26.210938}
-        - {x: -7.7867737, y: -28.210938}
-    - name: Lapin sprite_18
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_18
       rect:
         serializedVersion: 2
         x: 189
@@ -557,16 +952,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 17.33979, y: 5.2890625}
-        - {x: 0.33979034, y: 29.289062}
-        - {x: -17.66021, y: 29.289062}
-        - {x: -20.66021, y: 19.289062}
-        - {x: -20.66021, y: -27.710938}
-        - {x: 21.33979, y: -27.710938}
-        - {x: 21.33979, y: -6.7109375}
-        - {x: 19.33979, y: 1.2890625}
-    - name: Lapin sprite_19
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_19
       rect:
         serializedVersion: 2
         x: 313
@@ -576,15 +973,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 4.2320404, y: 28.789062}
-        - {x: -13.76796, y: 28.789062}
-        - {x: -15.76796, y: 27.789062}
-        - {x: -18.76796, y: 22.789062}
-        - {x: -18.76796, y: -27.210938}
-        - {x: 20.23204, y: -27.210938}
-        - {x: 20.23204, y: 12.7890625}
-    - name: Lapin sprite_20
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_20
       rect:
         serializedVersion: 2
         x: 386
@@ -594,16 +994,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -1.1499481, y: 27.789062}
-        - {x: -12.149948, y: 27.789062}
-        - {x: -13.149948, y: 26.789062}
-        - {x: -23.149948, y: -12.2109375}
-        - {x: -23.149948, y: -26.210938}
-        - {x: 22.850052, y: -26.210938}
-        - {x: 23.850052, y: -22.210938}
-        - {x: 23.850052, y: 12.7890625}
-    - name: Lapin sprite_21
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_21
       rect:
         serializedVersion: 2
         x: 472
@@ -613,21 +1015,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -17.942413, y: 28.789062}
-        - {x: -18.942413, y: 21.789062}
-        - {x: -18.942413, y: -27.210938}
-        - {x: 20.057587, y: -27.210938}
-        - {x: 20.057587, y: -5.2109375}
-        - {x: 18.057587, y: 6.7890625}
-        - {x: 9.057587, y: 19.789062}
-        - {x: 0.05758667, y: 28.789062}
-      - - {x: 11.057587, y: 28.789062}
-        - {x: 13.057587, y: 20.789062}
-        - {x: 15.057587, y: 18.789062}
-        - {x: 20.057587, y: 18.789062}
-        - {x: 20.057587, y: 28.789062}
-    - name: Lapin sprite_22
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_22
       rect:
         serializedVersion: 2
         x: 18
@@ -638,7 +1037,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_23
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_23
       rect:
         serializedVersion: 2
         x: 66
@@ -648,15 +1057,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -20.468643, y: 9.815796}
-        - {x: -20.468643, y: -24.184204}
-        - {x: 21.531357, y: -24.184204}
-        - {x: 21.531357, y: -12.184204}
-        - {x: 9.531357, y: 24.815796}
-        - {x: -4.468643, y: 24.815796}
-        - {x: -18.468643, y: 12.815796}
-    - name: Lapin sprite_24
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_24
       rect:
         serializedVersion: 2
         x: 143
@@ -666,16 +1078,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -3.515396, y: 29.815796}
-        - {x: -25.515396, y: 14.815796}
-        - {x: -25.515396, y: -15.184204}
-        - {x: -19.515396, y: -29.184204}
-        - {x: 2.484604, y: -29.184204}
-        - {x: 26.484604, y: 0.8157959}
-        - {x: 26.484604, y: 16.815796}
-        - {x: 7.484604, y: 29.815796}
-    - name: Lapin sprite_25
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_25
       rect:
         serializedVersion: 2
         x: 239
@@ -686,7 +1100,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_26
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_26
       rect:
         serializedVersion: 2
         x: 333
@@ -696,16 +1120,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -12.091797, y: 25.815796}
-        - {x: -19.091797, y: 19.815796}
-        - {x: -19.091797, y: -25.184204}
-        - {x: -0.091796875, y: -25.184204}
-        - {x: 14.908203, y: -18.184204}
-        - {x: 19.908203, y: -14.184204}
-        - {x: 19.908203, y: 10.815796}
-        - {x: 9.908203, y: 25.815796}
-    - name: Lapin sprite_27
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_27
       rect:
         serializedVersion: 2
         x: 405
@@ -715,14 +1141,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -14.057587, y: 25.315796}
-        - {x: -18.057587, y: -0.6842041}
-        - {x: -18.057587, y: -24.684204}
-        - {x: 18.942413, y: -24.684204}
-        - {x: 18.942413, y: -10.684204}
-        - {x: 1.9424133, y: 25.315796}
-    - name: Lapin sprite_28
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_28
       rect:
         serializedVersion: 2
         x: 475
@@ -732,23 +1162,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -1.6910095, y: -22.184204}
-        - {x: -1.6910095, y: -25.184204}
-        - {x: 0.30899048, y: -27.184204}
-        - {x: 17.30899, y: -27.184204}
-        - {x: 17.30899, y: 18.815796}
-        - {x: 16.30899, y: 22.815796}
-        - {x: 10.3089905, y: 27.815796}
-        - {x: -0.6910095, y: 27.815796}
-        - {x: -16.69101, y: -6.184204}
-        - {x: -16.69101, y: -26.184204}
-        - {x: -14.6910095, y: -27.184204}
-        - {x: -2.6910095, y: -27.184204}
-        - {x: -1.6910095, y: -26.184204}
-        - {x: -1.6910095, y: -24.184204}
-        - {x: -4.6910095, y: -21.184204}
-    - name: Lapin sprite_29
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_29
       rect:
         serializedVersion: 2
         x: 542
@@ -758,16 +1183,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 18.924164, y: -10.684204}
-        - {x: 1.9241638, y: 25.315796}
-        - {x: -5.075836, y: 25.315796}
-        - {x: -9.075836, y: 22.315796}
-        - {x: -17.075836, y: -3.684204}
-        - {x: -18.075836, y: -9.684204}
-        - {x: -18.075836, y: -24.684204}
-        - {x: 18.924164, y: -24.684204}
-    - name: Lapin sprite_30
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_30
       rect:
         serializedVersion: 2
         x: 18
@@ -777,18 +1204,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -20.491447, y: 31.007324}
-        - {x: -22.491447, y: 12.007324}
-        - {x: -22.491447, y: -9.992676}
-        - {x: -20.491447, y: -13.992676}
-        - {x: -10.491447, y: -27.992676}
-        - {x: -5.4914474, y: -29.992676}
-        - {x: 13.508553, y: -29.992676}
-        - {x: 23.508553, y: -14.992676}
-        - {x: 23.508553, y: 21.007324}
-        - {x: 2.5085526, y: 31.007324}
-    - name: Lapin sprite_31
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_31
       rect:
         serializedVersion: 2
         x: 100
@@ -798,15 +1225,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 1.3808441, y: 27.507324}
-        - {x: -19.619156, y: 19.507324}
-        - {x: -19.619156, y: -26.492676}
-        - {x: 19.380844, y: -26.492676}
-        - {x: 20.380844, y: -20.492676}
-        - {x: 20.380844, y: 26.507324}
-        - {x: 17.380844, y: 27.507324}
-    - name: Lapin sprite_32
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_32
       rect:
         serializedVersion: 2
         x: 213
@@ -816,15 +1246,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -3.6488037, y: 30.839722}
-        - {x: -16.648804, y: 4.8397217}
-        - {x: -16.648804, y: -15.160278}
-        - {x: -6.6488037, y: -30.160278}
-        - {x: 17.351196, y: -30.160278}
-        - {x: 17.351196, y: -6.1602783}
-        - {x: 6.3511963, y: 30.839722}
-    - name: Lapin sprite_33
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_33
       rect:
         serializedVersion: 2
         x: 277
@@ -834,16 +1267,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -6.2850647, y: 25.339722}
-        - {x: -8.285065, y: 23.339722}
-        - {x: -15.285065, y: -3.6602783}
-        - {x: -18.285065, y: -13.660278}
-        - {x: -18.285065, y: -24.660278}
-        - {x: 19.714935, y: -24.660278}
-        - {x: 19.714935, y: -12.660278}
-        - {x: 2.7149353, y: 25.339722}
-    - name: Lapin sprite_34
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_34
       rect:
         serializedVersion: 2
         x: 18
@@ -853,13 +1288,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -0.49144745, y: 27.531372}
-        - {x: -19.491447, y: 12.531372}
-        - {x: -19.491447, y: -26.468628}
-        - {x: 20.508553, y: -26.468628}
-        - {x: 20.508553, y: 27.531372}
-    - name: Lapin sprite_35
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_35
       rect:
         serializedVersion: 2
         x: 93
@@ -869,20 +1309,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -14.705818, y: 31.031372}
-        - {x: -14.705818, y: 30.031372}
-        - {x: -22.705818, y: 3.031372}
-        - {x: -22.705818, y: -10.968628}
-        - {x: -19.705818, y: -11.968628}
-        - {x: -15.705818, y: -11.968628}
-        - {x: -11.705818, y: -9.968628}
-        - {x: -6.705818, y: -23.968628}
-        - {x: -2.7058182, y: -29.968628}
-        - {x: 23.294182, y: -29.968628}
-        - {x: 23.294182, y: 25.031372}
-        - {x: 5.294182, y: 31.031372}
-    - name: Lapin sprite_36
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_36
       rect:
         serializedVersion: 2
         x: 177
@@ -892,13 +1330,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 0.8340912, y: 27.531372}
-        - {x: -20.165909, y: 13.531372}
-        - {x: -20.165909, y: -26.468628}
-        - {x: 20.834091, y: -26.468628}
-        - {x: 20.834091, y: 27.531372}
-    - name: Lapin sprite_37
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_37
       rect:
         serializedVersion: 2
         x: 295
@@ -909,7 +1352,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_38
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_38
       rect:
         serializedVersion: 2
         x: 344
@@ -919,24 +1372,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -72.16991, y: 49.373413}
-        - {x: -72.16991, y: -47.626587}
-        - {x: 73.83009, y: -47.626587}
-        - {x: 73.83009, y: 18.373413}
-        - {x: 68.83009, y: 49.373413}
-      - - {x: -69.16991, y: -12.626587}
-        - {x: -69.16991, y: -9.626587}
-        - {x: -72.16991, y: -8.626587}
-        - {x: -72.16991, y: -13.626587}
-      - - {x: -62.169907, y: 49.373413}
-        - {x: -64.16991, y: 47.373413}
-        - {x: -64.16991, y: 45.373413}
-        - {x: -62.169907, y: 43.373413}
-        - {x: -52.169907, y: 43.373413}
-        - {x: -50.169907, y: 45.373413}
-        - {x: -50.169907, y: 49.373413}
-    - name: Lapin sprite_39
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_39
       rect:
         serializedVersion: 2
         x: 355
@@ -946,19 +1393,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 20.251984, y: 12.531372}
-        - {x: 7.2519836, y: 25.531372}
-        - {x: -6.7480164, y: 25.531372}
-        - {x: -13.748016, y: 23.531372}
-        - {x: -19.748016, y: 17.531372}
-        - {x: -19.748016, y: -18.468628}
-        - {x: -18.748016, y: -24.468628}
-        - {x: -5.7480164, y: -24.468628}
-        - {x: -4.7480164, y: -23.468628}
-        - {x: 15.251984, y: -17.468628}
-        - {x: 20.251984, y: -14.468628}
-    - name: Lapin sprite_40
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_40
       rect:
         serializedVersion: 2
         x: 429
@@ -969,7 +1415,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_41
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_41
       rect:
         serializedVersion: 2
         x: 18
@@ -979,20 +1435,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18.991447, y: -16.118042}
-        - {x: -16.991447, y: -17.118042}
-        - {x: -11.991447, y: -17.118042}
-        - {x: -8.991447, y: -16.118042}
-        - {x: -12.991447, y: -18.118042}
-        - {x: -15.991447, y: -21.118042}
-        - {x: -15.991447, y: -25.118042}
-        - {x: 20.008553, y: -25.118042}
-        - {x: 20.008553, y: -0.11804199}
-        - {x: 4.0085526, y: 25.881958}
-        - {x: -13.991447, y: 25.881958}
-        - {x: -18.991447, y: -0.11804199}
-    - name: Lapin sprite_42
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_42
       rect:
         serializedVersion: 2
         x: 90
@@ -1002,16 +1456,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 12.542759, y: 22.381958}
-        - {x: -23.457241, y: 22.381958}
-        - {x: -23.457241, y: -20.618042}
-        - {x: -20.457241, y: -21.618042}
-        - {x: 10.542759, y: -21.618042}
-        - {x: 23.542759, y: -9.618042}
-        - {x: 24.542759, y: -6.618042}
-        - {x: 24.542759, y: 6.381958}
-    - name: Lapin sprite_43
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_43
       rect:
         serializedVersion: 2
         x: 173
@@ -1022,7 +1478,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_44
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_44
       rect:
         serializedVersion: 2
         x: 181
@@ -1032,15 +1498,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -21.830673, y: -22.618042}
-        - {x: 2.1693268, y: -22.618042}
-        - {x: 8.169327, y: -20.618042}
-        - {x: 23.169327, y: 7.381958}
-        - {x: 23.169327, y: 23.381958}
-        - {x: -1.8306732, y: 23.381958}
-        - {x: -21.830673, y: 19.381958}
-    - name: Lapin sprite_45
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_45
       rect:
         serializedVersion: 2
         x: 263
@@ -1050,16 +1519,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -19.95839, y: 22.381958}
-        - {x: -23.95839, y: 18.381958}
-        - {x: -23.95839, y: -13.618042}
-        - {x: -20.95839, y: -21.618042}
-        - {x: 12.041611, y: -21.618042}
-        - {x: 25.04161, y: -4.618042}
-        - {x: 25.04161, y: 12.381958}
-        - {x: 13.041611, y: 22.381958}
-    - name: Lapin sprite_46
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_46
       rect:
         serializedVersion: 2
         x: 593
@@ -1069,18 +1540,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 0.6983948, y: 25.381958}
-        - {x: -15.301605, y: 25.381958}
-        - {x: -17.301605, y: 22.381958}
-        - {x: -17.301605, y: 7.381958}
-        - {x: -10.301605, y: -16.618042}
-        - {x: -2.3016052, y: -24.618042}
-        - {x: 15.698395, y: -24.618042}
-        - {x: 17.698395, y: -23.618042}
-        - {x: 17.698395, y: -1.618042}
-        - {x: 15.698395, y: 12.381958}
-    - name: Lapin sprite_47
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_47
       rect:
         serializedVersion: 2
         x: 660
@@ -1090,16 +1561,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 17.313568, y: 18.881958}
-        - {x: -22.686432, y: 18.881958}
-        - {x: -26.686432, y: 10.881958}
-        - {x: -26.686432, y: -18.118042}
-        - {x: -6.686432, y: -18.118042}
-        - {x: 19.313568, y: -14.118042}
-        - {x: 27.313568, y: -1.118042}
-        - {x: 27.313568, y: 12.881958}
-    - name: Lapin sprite_48
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_48
       rect:
         serializedVersion: 2
         x: 760
@@ -1109,16 +1582,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -15.805603, y: 25.381958}
-        - {x: -16.805603, y: 23.381958}
-        - {x: -16.805603, y: -6.618042}
-        - {x: -15.805603, y: -16.618042}
-        - {x: -0.805603, y: -24.618042}
-        - {x: 18.194397, y: -24.618042}
-        - {x: 18.194397, y: 12.381958}
-        - {x: 10.194397, y: 25.381958}
-    - name: Lapin sprite_49
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_49
       rect:
         serializedVersion: 2
         x: 830
@@ -1129,7 +1604,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_50
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_50
       rect:
         serializedVersion: 2
         x: 888
@@ -1140,7 +1625,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_51
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_51
       rect:
         serializedVersion: 2
         x: 18
@@ -1150,17 +1645,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -16.491447, y: 19.749634}
-        - {x: -21.491447, y: 11.749634}
-        - {x: -21.491447, y: -3.2503662}
-        - {x: -16.491447, y: -2.2503662}
-        - {x: -18.491447, y: -15.250366}
-        - {x: -18.491447, y: -19.250366}
-        - {x: 22.508553, y: -19.250366}
-        - {x: 22.508553, y: 8.749634}
-        - {x: 18.508553, y: 19.749634}
-    - name: Lapin sprite_52
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_52
       rect:
         serializedVersion: 2
         x: 100
@@ -1170,19 +1666,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 13.380844, y: 19.249634}
-        - {x: 9.380844, y: 21.249634}
-        - {x: 4.380844, y: 21.249634}
-        - {x: 0.38084412, y: 16.249634}
-        - {x: 0.38084412, y: 12.249634}
-        - {x: -15.619156, y: 16.249634}
-        - {x: -21.619156, y: 7.249634}
-        - {x: -21.619156, y: -20.750366}
-        - {x: 22.380844, y: -20.750366}
-        - {x: 22.380844, y: -4.750366}
-        - {x: 16.380844, y: 18.249634}
-    - name: Lapin sprite_53
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_53
       rect:
         serializedVersion: 2
         x: 218
@@ -1192,14 +1687,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8.229767, y: 24.749634}
-        - {x: -20.229767, y: 6.749634}
-        - {x: -20.229767, y: -24.250366}
-        - {x: 20.770233, y: -24.250366}
-        - {x: 20.770233, y: 10.749634}
-        - {x: 10.770233, y: 24.749634}
-    - name: Lapin sprite_54
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_54
       rect:
         serializedVersion: 2
         x: 333
@@ -1209,14 +1708,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -14.591797, y: 17.749634}
-        - {x: -19.591797, y: -1.2503662}
-        - {x: -19.591797, y: -17.250366}
-        - {x: 20.408203, y: -17.250366}
-        - {x: 20.408203, y: 0.7496338}
-        - {x: 13.408203, y: 17.749634}
-    - name: Lapin sprite_55
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_55
       rect:
         serializedVersion: 2
         x: 18
@@ -1226,21 +1729,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -9.991447, y: 22.787842}
-        - {x: -22.991447, y: 6.787842}
-        - {x: -22.991447, y: -12.212158}
-        - {x: -19.991447, y: -13.212158}
-        - {x: -16.991447, y: -13.212158}
-        - {x: -13.991447, y: -9.212158}
-        - {x: -13.991447, y: -2.2121582}
-        - {x: -12.991447, y: -7.212158}
-        - {x: -15.991447, y: -14.212158}
-        - {x: -22.991447, y: -21.212158}
-        - {x: 24.008553, y: -21.212158}
-        - {x: 24.008553, y: 19.787842}
-        - {x: 14.008553, y: 22.787842}
-    - name: Lapin sprite_56
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_56
       rect:
         serializedVersion: 2
         x: 343
@@ -1250,15 +1750,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -53.253708, y: 89.439575}
-        - {x: -57.253708, y: 70.439575}
-        - {x: -57.253708, y: -87.560425}
-        - {x: -19.253708, y: -87.560425}
-        - {x: 57.746292, y: -20.560425}
-        - {x: 57.746292, y: 46.439575}
-        - {x: -32.253708, y: 89.439575}
-    - name: Lapin sprite_57
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_57
       rect:
         serializedVersion: 2
         x: 18
@@ -1268,16 +1771,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 18.008553, y: -2.1739502}
-        - {x: 11.008553, y: 21.82605}
-        - {x: -5.9914474, y: 21.82605}
-        - {x: -20.991447, y: 15.82605}
-        - {x: -20.991447, y: -21.17395}
-        - {x: 22.008553, y: -21.17395}
-        - {x: 22.008553, y: -14.17395}
-        - {x: 21.008553, y: -14.17395}
-    - name: Lapin sprite_58
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_58
       rect:
         serializedVersion: 2
         x: 100
@@ -1287,16 +1792,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 16.880844, y: 20.82605}
-        - {x: 7.880844, y: 20.82605}
-        - {x: -7.119156, y: 11.82605}
-        - {x: -22.119156, y: -11.17395}
-        - {x: -22.119156, y: -20.17395}
-        - {x: 21.880844, y: -20.17395}
-        - {x: 22.880844, y: -16.17395}
-        - {x: 22.880844, y: 12.82605}
-    - name: Lapin sprite_59
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_59
       rect:
         serializedVersion: 2
         x: 184
@@ -1306,14 +1813,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -21.579254, y: -21.17395}
-        - {x: 22.420746, y: -21.17395}
-        - {x: 22.420746, y: 6.82605}
-        - {x: 17.420746, y: 21.82605}
-        - {x: -12.579254, y: 21.82605}
-        - {x: -21.579254, y: 17.82605}
-    - name: Lapin sprite_60
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_60
       rect:
         serializedVersion: 2
         x: 834
@@ -1324,7 +1835,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_61
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_61
       rect:
         serializedVersion: 2
         x: 18
@@ -1334,19 +1855,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 1.5085526, y: 15.86145}
-        - {x: -1.4914474, y: 12.86145}
-        - {x: -5.4914474, y: 19.86145}
-        - {x: -8.491447, y: 23.86145}
-        - {x: -21.491447, y: 23.86145}
-        - {x: -23.491447, y: 22.86145}
-        - {x: -23.491447, y: -23.13855}
-        - {x: 19.508553, y: -23.13855}
-        - {x: 24.508553, y: -18.13855}
-        - {x: 24.508553, y: -3.1385498}
-        - {x: 8.508553, y: 16.86145}
-    - name: Lapin sprite_62
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_62
       rect:
         serializedVersion: 2
         x: 105
@@ -1356,20 +1876,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -1.2001152, y: 25.36145}
-        - {x: -3.2001152, y: 20.36145}
-        - {x: -3.2001152, y: 18.36145}
-        - {x: -7.200115, y: 24.36145}
-        - {x: -9.200115, y: 24.36145}
-        - {x: -11.200115, y: 22.36145}
-        - {x: -20.200115, y: 12.36145}
-        - {x: -20.200115, y: -24.63855}
-        - {x: 17.799885, y: -24.63855}
-        - {x: 20.799885, y: -21.63855}
-        - {x: 20.799885, y: 15.36145}
-        - {x: 13.799885, y: 25.36145}
-    - name: Lapin sprite_63
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_63
       rect:
         serializedVersion: 2
         x: 18
@@ -1379,14 +1897,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -19.491447, y: 24.229126}
-        - {x: -19.491447, y: -13.770874}
-        - {x: -12.491447, y: -23.770874}
-        - {x: 20.508553, y: -23.770874}
-        - {x: 20.508553, y: -5.770874}
-        - {x: 14.508553, y: 24.229126}
-    - name: Lapin sprite_64
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_64
       rect:
         serializedVersion: 2
         x: 93
@@ -1396,14 +1918,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -20.705818, y: 24.229126}
-        - {x: -26.705818, y: 10.229126}
-        - {x: -26.705818, y: -23.770874}
-        - {x: 27.294182, y: -23.770874}
-        - {x: 27.294182, y: -4.770874}
-        - {x: 5.294182, y: 24.229126}
-    - name: Lapin sprite_65
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_65
       rect:
         serializedVersion: 2
         x: 191
@@ -1413,16 +1939,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 21.507408, y: 5.729126}
-        - {x: 2.5074081, y: 24.729126}
-        - {x: -8.492592, y: 24.729126}
-        - {x: -12.492592, y: 23.729126}
-        - {x: -20.492592, y: 12.729126}
-        - {x: -20.492592, y: -24.270874}
-        - {x: 18.507408, y: -24.270874}
-        - {x: 21.507408, y: -20.270874}
-    - name: Lapin sprite_66
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_66
       rect:
         serializedVersion: 2
         x: 533
@@ -1432,21 +1960,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 73.16989, y: 36.53418}
-        - {x: 71.16989, y: 38.53418}
-        - {x: 78.16989, y: 41.53418}
-        - {x: 91.16989, y: 49.53418}
-        - {x: 93.16989, y: 64.53418}
-        - {x: 93.16989, y: 98.53418}
-        - {x: -2.8301086, y: 98.53418}
-        - {x: -92.83011, y: -66.46582}
-        - {x: -92.83011, y: -98.46582}
-        - {x: -56.83011, y: -98.46582}
-        - {x: -23.830109, y: -91.46582}
-        - {x: 65.16989, y: -12.46582}
-        - {x: 81.16989, y: 23.53418}
-    - name: Lapin sprite_67
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_67
       rect:
         serializedVersion: 2
         x: 18
@@ -1456,15 +1981,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -7.9914474, y: 21.345459}
-        - {x: -20.991447, y: 10.345459}
-        - {x: -20.991447, y: -16.654541}
-        - {x: -18.991447, y: -20.654541}
-        - {x: 22.008553, y: -20.654541}
-        - {x: 22.008553, y: 2.345459}
-        - {x: 16.008553, y: 21.345459}
-    - name: Lapin sprite_68
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_68
       rect:
         serializedVersion: 2
         x: 95
@@ -1474,21 +2002,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -1.5382004, y: 23.845459}
-        - {x: -17.5382, y: 7.845459}
-        - {x: -19.5382, y: 3.845459}
-        - {x: -19.5382, y: -9.154541}
-        - {x: -16.5382, y: -12.154541}
-        - {x: -13.5382, y: -12.154541}
-        - {x: -7.5382004, y: -8.154541}
-        - {x: -11.5382, y: -12.154541}
-        - {x: -13.5382, y: -23.154541}
-        - {x: 18.4618, y: -23.154541}
-        - {x: 20.4618, y: -20.154541}
-        - {x: 20.4618, y: 7.845459}
-        - {x: 15.4618, y: 23.845459}
-    - name: Lapin sprite_69
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_69
       rect:
         serializedVersion: 2
         x: 172
@@ -1498,19 +2023,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 23.415047, y: -1.154541}
-        - {x: -4.5849533, y: 23.845459}
-        - {x: -16.584953, y: 23.845459}
-        - {x: -19.584953, y: 16.845459}
-        - {x: -22.584953, y: -1.154541}
-        - {x: -22.584953, y: -15.154541}
-        - {x: -20.584953, y: -16.154541}
-        - {x: -17.584953, y: -16.154541}
-        - {x: -18.584953, y: -22.154541}
-        - {x: -16.584953, y: -23.154541}
-        - {x: 23.415047, y: -23.154541}
-    - name: Lapin sprite_70
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_70
       rect:
         serializedVersion: 2
         x: 256
@@ -1520,18 +2044,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -7.045044, y: 20.345459}
-        - {x: -18.045044, y: 20.345459}
-        - {x: -25.045044, y: 12.345459}
-        - {x: -25.045044, y: -8.654541}
-        - {x: -23.045044, y: -13.654541}
-        - {x: -18.045044, y: -13.654541}
-        - {x: -12.045044, y: -19.654541}
-        - {x: 25.954956, y: -19.654541}
-        - {x: 25.954956, y: -6.654541}
-        - {x: 13.954956, y: 4.345459}
-    - name: Lapin sprite_71
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_71
       rect:
         serializedVersion: 2
         x: 350
@@ -1541,14 +2065,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 21.332947, y: 11.345459}
-        - {x: 18.332947, y: 26.345459}
-        - {x: -17.667053, y: 26.345459}
-        - {x: -20.667053, y: 7.345459}
-        - {x: -20.667053, y: -25.654541}
-        - {x: 21.332947, y: -25.654541}
-    - name: Lapin sprite_72
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_72
       rect:
         serializedVersion: 2
         x: 429
@@ -1558,15 +2086,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8.046188, y: 21.345459}
-        - {x: -21.046188, y: 10.345459}
-        - {x: -21.046188, y: -16.654541}
-        - {x: -19.046188, y: -20.654541}
-        - {x: 21.953812, y: -20.654541}
-        - {x: 21.953812, y: 2.345459}
-        - {x: 15.953812, y: 21.345459}
-    - name: Lapin sprite_73
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_73
       rect:
         serializedVersion: 2
         x: 18
@@ -1577,7 +2108,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_74
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_74
       rect:
         serializedVersion: 2
         x: 81
@@ -1587,18 +2128,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 12.288483, y: 27.86377}
-        - {x: -11.711517, y: 27.86377}
-        - {x: -19.711517, y: 23.86377}
-        - {x: -25.711517, y: 5.8637695}
-        - {x: -25.711517, y: -1.1362305}
-        - {x: -16.711517, y: -19.13623}
-        - {x: -4.7115173, y: -27.13623}
-        - {x: 21.288483, y: -27.13623}
-        - {x: 26.288483, y: -15.13623}
-        - {x: 26.288483, y: 14.86377}
-    - name: Lapin sprite_75
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_75
       rect:
         serializedVersion: 2
         x: 177
@@ -1608,16 +2149,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18.165909, y: 32.86377}
-        - {x: -21.165909, y: 31.86377}
-        - {x: -21.165909, y: 5.8637695}
-        - {x: -12.165909, y: -32.13623}
-        - {x: 17.834091, y: -32.13623}
-        - {x: 19.834091, y: -28.13623}
-        - {x: 21.834091, y: -7.1362305}
-        - {x: 21.834091, y: 32.86377}
-    - name: Lapin sprite_76
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_76
       rect:
         serializedVersion: 2
         x: 258
@@ -1627,14 +2170,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18.377426, y: 20.36377}
-        - {x: -21.377426, y: 11.36377}
-        - {x: -21.377426, y: -12.63623}
-        - {x: -19.377426, y: -19.63623}
-        - {x: 22.622574, y: -19.63623}
-        - {x: 22.622574, y: 20.36377}
-    - name: Lapin sprite_77
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_77
       rect:
         serializedVersion: 2
         x: 18
@@ -1644,15 +2191,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 7.5085526, y: 32.055298}
-        - {x: -17.491447, y: 19.055298}
-        - {x: -17.491447, y: -30.944702}
-        - {x: 3.5085526, y: -30.944702}
-        - {x: 18.508553, y: -23.944702}
-        - {x: 18.508553, y: 27.055298}
-        - {x: 13.508553, y: 32.055298}
-    - name: Lapin sprite_78
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_78
       rect:
         serializedVersion: 2
         x: 88
@@ -1662,19 +2212,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 18.375141, y: -6.444702}
-        - {x: 12.375141, y: 17.555298}
-        - {x: 3.3751411, y: 27.555298}
-        - {x: -9.624859, y: 27.555298}
-        - {x: -20.624859, y: 9.555298}
-        - {x: -20.624859, y: -20.444702}
-        - {x: -19.624859, y: -26.444702}
-        - {x: -6.624859, y: -26.444702}
-        - {x: 18.375141, y: -18.444702}
-        - {x: 21.375141, y: -16.444702}
-        - {x: 21.375141, y: -9.444702}
-    - name: Lapin sprite_79
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_79
       rect:
         serializedVersion: 2
         x: 167
@@ -1685,7 +2234,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_80
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_80
       rect:
         serializedVersion: 2
         x: 18
@@ -1695,13 +2254,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -11.491447, y: 23.917297}
-        - {x: -16.491447, y: 16.917297}
-        - {x: -16.491447, y: -23.082703}
-        - {x: 17.508553, y: -23.082703}
-        - {x: 17.508553, y: 23.917297}
-    - name: Lapin sprite_81
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_81
       rect:
         serializedVersion: 2
         x: 83
@@ -1711,15 +2275,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -15.5439, y: 20.917297}
-        - {x: -24.5439, y: -6.0827026}
-        - {x: -24.5439, y: -20.082703}
-        - {x: 15.4561, y: -20.082703}
-        - {x: 25.4561, y: -18.082703}
-        - {x: 25.4561, y: 16.917297}
-        - {x: 19.4561, y: 20.917297}
-    - name: Lapin sprite_82
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_82
       rect:
         serializedVersion: 2
         x: 215
@@ -1730,7 +2297,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_83
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_83
       rect:
         serializedVersion: 2
         x: 275
@@ -1740,17 +2317,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -7.4526825, y: 26.917297}
-        - {x: -20.452682, y: 7.9172974}
-        - {x: -20.452682, y: -20.082703}
-        - {x: -16.452682, y: -26.082703}
-        - {x: 12.5473175, y: -26.082703}
-        - {x: 21.547318, y: -23.082703}
-        - {x: 21.547318, y: 17.917297}
-        - {x: 20.547318, y: 21.917297}
-        - {x: 10.5473175, y: 26.917297}
-    - name: Lapin sprite_84
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_84
       rect:
         serializedVersion: 2
         x: 392
@@ -1760,17 +2338,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 9.352905, y: 64.111694}
-        - {x: -6.6470947, y: 64.111694}
-        - {x: -21.647095, y: 53.111694}
-        - {x: -36.647095, y: 6.1116943}
-        - {x: -36.647095, y: -27.888306}
-        - {x: -7.6470947, y: -63.888306}
-        - {x: 28.352905, y: -63.888306}
-        - {x: 38.352905, y: -18.888306}
-        - {x: 38.352905, y: 44.111694}
-    - name: Lapin sprite_85
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_85
       rect:
         serializedVersion: 2
         x: 887
@@ -1780,17 +2359,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 0.83807373, y: 83.71094}
-        - {x: -16.161926, y: 78.71094}
-        - {x: -19.161926, y: 72.71094}
-        - {x: -19.161926, y: 27.710938}
-        - {x: -7.1619263, y: -28.289062}
-        - {x: 3.8380737, y: -65.28906}
-        - {x: 17.838074, y: -83.28906}
-        - {x: 20.838074, y: -83.28906}
-        - {x: 20.838074, y: 83.71094}
-    - name: Lapin sprite_86
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_86
       rect:
         serializedVersion: 2
         x: 18
@@ -1801,7 +2381,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_87
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_87
       rect:
         serializedVersion: 2
         x: 80
@@ -1812,7 +2402,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_88
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_88
       rect:
         serializedVersion: 2
         x: 138
@@ -1823,7 +2423,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_89
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_89
       rect:
         serializedVersion: 2
         x: 18
@@ -1833,17 +2443,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 3.0085526, y: 31.803284}
-        - {x: -9.991447, y: 31.803284}
-        - {x: -14.991447, y: 30.803284}
-        - {x: -17.991447, y: 15.803284}
-        - {x: -17.991447, y: -19.196716}
-        - {x: -7.9914474, y: -31.196716}
-        - {x: 18.008553, y: -31.196716}
-        - {x: 19.008553, y: -27.196716}
-        - {x: 19.008553, y: 11.803284}
-    - name: Lapin sprite_90
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_90
       rect:
         serializedVersion: 2
         x: 86
@@ -1853,18 +2464,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 0.20752335, y: 20.803284}
-        - {x: -15.792477, y: 20.803284}
-        - {x: -19.792477, y: 18.803284}
-        - {x: -20.792477, y: 8.803284}
-        - {x: -20.792477, y: -9.196716}
-        - {x: -5.7924767, y: -20.196716}
-        - {x: 19.207523, y: -20.196716}
-        - {x: 21.207523, y: -19.196716}
-        - {x: 21.207523, y: 6.8032837}
-        - {x: 19.207523, y: 11.803284}
-    - name: Lapin sprite_91
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_91
       rect:
         serializedVersion: 2
         x: 18
@@ -1874,19 +2485,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 17.008553, y: 27.408203}
-        - {x: 11.008552, y: 33.408203}
-        - {x: -3.9914484, y: 33.408203}
-        - {x: -15.991448, y: 16.408203}
-        - {x: -15.991448, y: 3.4082031}
-        - {x: -12.991448, y: 2.4082031}
-        - {x: -10.991448, y: 2.4082031}
-        - {x: -6.9914484, y: 6.408203}
-        - {x: -8.991448, y: -29.591797}
-        - {x: -4.9914484, y: -32.591797}
-        - {x: 17.008553, y: -32.591797}
-    - name: Lapin sprite_92
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_92
       rect:
         serializedVersion: 2
         x: 80
@@ -1896,15 +2506,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -17.795326, y: 28.908203}
-        - {x: -17.795326, y: -16.091797}
-        - {x: -11.795326, y: -28.091797}
-        - {x: 12.204674, y: -28.091797}
-        - {x: 19.204674, y: -11.091797}
-        - {x: 19.204674, y: 22.908203}
-        - {x: 12.204674, y: 28.908203}
-    - name: Lapin sprite_93
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_93
       rect:
         serializedVersion: 2
         x: 244
@@ -1914,27 +2527,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -23.05075, y: 61.848328}
-        - {x: -51.05075, y: 30.848328}
-        - {x: -51.05075, y: -53.151672}
-        - {x: -48.05075, y: -55.151672}
-        - {x: -30.05075, y: -51.151672}
-        - {x: -10.050751, y: -52.151672}
-        - {x: -8.050751, y: -46.151672}
-        - {x: -8.050751, y: -51.151672}
-        - {x: -3.0507507, y: -60.151672}
-        - {x: 35.94925, y: -60.151672}
-        - {x: 51.94925, y: -52.151672}
-        - {x: 51.94925, y: 41.848328}
-        - {x: 25.94925, y: 61.848328}
-      - - {x: 45.94925, y: -39.151672}
-        - {x: 43.94925, y: -42.151672}
-        - {x: 43.94925, y: -47.151672}
-        - {x: 46.94925, y: -52.151672}
-        - {x: 51.94925, y: -52.151672}
-        - {x: 51.94925, y: -39.151672}
-    - name: Lapin sprite_94
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_94
       rect:
         serializedVersion: 2
         x: 944
@@ -1945,7 +2549,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_95
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_95
       rect:
         serializedVersion: 2
         x: 18
@@ -1955,13 +2569,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -7.9914474, y: 27.605469}
-        - {x: -18.991447, y: 25.605469}
-        - {x: -18.991447, y: -26.394531}
-        - {x: 20.008553, y: -26.394531}
-        - {x: 20.008553, y: 27.605469}
-    - name: Lapin sprite_96
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_96
       rect:
         serializedVersion: 2
         x: 92
@@ -1971,15 +2590,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 5.210373, y: 28.605469}
-        - {x: 0.21037292, y: 28.605469}
-        - {x: -18.789627, y: 4.6054688}
-        - {x: -18.789627, y: -27.394531}
-        - {x: 20.210373, y: -27.394531}
-        - {x: 20.210373, y: 10.605469}
-        - {x: 10.210373, y: 25.605469}
-    - name: Lapin sprite_97
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_97
       rect:
         serializedVersion: 2
         x: 167
@@ -1989,14 +2611,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 4.99601, y: 24.605469}
-        - {x: 2.9960098, y: 23.605469}
-        - {x: -20.00399, y: 24.605469}
-        - {x: -20.00399, y: -23.394531}
-        - {x: 20.99601, y: -23.394531}
-        - {x: 20.99601, y: 24.605469}
-    - name: Lapin sprite_98
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_98
       rect:
         serializedVersion: 2
         x: 408
@@ -2007,7 +2633,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_99
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_99
       rect:
         serializedVersion: 2
         x: 441
@@ -2018,7 +2654,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_100
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_100
       rect:
         serializedVersion: 2
         x: 475
@@ -2029,7 +2675,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_101
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_101
       rect:
         serializedVersion: 2
         x: 516
@@ -2040,7 +2696,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_102
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_102
       rect:
         serializedVersion: 2
         x: 547
@@ -2051,7 +2717,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_103
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_103
       rect:
         serializedVersion: 2
         x: 571
@@ -2062,7 +2738,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_104
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_104
       rect:
         serializedVersion: 2
         x: 18
@@ -2072,17 +2758,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 0.008552551, y: 26.967468}
-        - {x: -8.991447, y: 26.967468}
-        - {x: -9.991447, y: 19.967468}
-        - {x: -20.991447, y: -2.0325317}
-        - {x: -20.991447, y: -18.032532}
-        - {x: -17.991447, y: -26.032532}
-        - {x: 22.008553, y: -26.032532}
-        - {x: 22.008553, y: -1.0325317}
-        - {x: 1.0085526, y: 25.967468}
-    - name: Lapin sprite_105
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_105
       rect:
         serializedVersion: 2
         x: 97
@@ -2092,21 +2779,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 14.629417, y: -2.5325317}
-        - {x: 12.629417, y: -2.5325317}
-        - {x: 21.629417, y: 0.46746826}
-        - {x: 21.629417, y: 10.467468}
-        - {x: -7.3705826, y: 29.467468}
-        - {x: -14.370583, y: 29.467468}
-        - {x: -20.370583, y: 28.467468}
-        - {x: -20.370583, y: -0.53253174}
-        - {x: -13.370583, y: -28.532532}
-        - {x: -0.37058258, y: -28.532532}
-        - {x: -0.37058258, y: -21.532532}
-        - {x: 9.629417, y: -24.532532}
-        - {x: 18.629417, y: -6.5325317}
-    - name: Lapin sprite_106
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_106
       rect:
         serializedVersion: 2
         x: 174
@@ -2116,16 +2800,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -14.4173355, y: 27.967468}
-        - {x: -22.417336, y: 23.967468}
-        - {x: -22.417336, y: -13.032532}
-        - {x: 2.5826645, y: -27.032532}
-        - {x: 17.582664, y: -27.032532}
-        - {x: 23.582664, y: -16.032532}
-        - {x: 23.582664, y: 13.967468}
-        - {x: 14.5826645, y: 27.967468}
-    - name: Lapin sprite_107
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_107
       rect:
         serializedVersion: 2
         x: 256
@@ -2135,20 +2821,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 12.954956, y: -8.532532}
-        - {x: 25.954956, y: -6.5325317}
-        - {x: 32.954956, y: -4.5325317}
-        - {x: 32.954956, y: 13.467468}
-        - {x: 21.954956, y: 22.467468}
-        - {x: -21.045044, y: 22.467468}
-        - {x: -28.045044, y: 20.467468}
-        - {x: -32.045044, y: 2.4674683}
-        - {x: -32.045044, y: -21.532532}
-        - {x: 9.954956, y: -21.532532}
-        - {x: 13.954956, y: -18.532532}
-        - {x: 15.954956, y: -13.532532}
-    - name: Lapin sprite_108
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_108
       rect:
         serializedVersion: 2
         x: 376
@@ -2158,16 +2842,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 22.011963, y: 0.96746826}
-        - {x: 18.011963, y: 19.967468}
-        - {x: 15.011963, y: 21.967468}
-        - {x: -6.988037, y: 21.967468}
-        - {x: -20.988037, y: 13.967468}
-        - {x: -20.988037, y: -20.032532}
-        - {x: -18.988037, y: -21.032532}
-        - {x: 22.011963, y: -21.032532}
-    - name: Lapin sprite_109
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_109
       rect:
         serializedVersion: 2
         x: 545
@@ -2177,22 +2863,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -29.824402, y: 62.62201}
-        - {x: -61.8244, y: 41.62201}
-        - {x: -61.8244, y: -39.37799}
-        - {x: -53.8244, y: -46.37799}
-        - {x: -6.824402, y: -56.37799}
-        - {x: -3.8244019, y: -55.37799}
-        - {x: 2.1755981, y: -48.37799}
-        - {x: 2.1755981, y: -46.37799}
-        - {x: 2.1755981, y: -53.37799}
-        - {x: 36.1756, y: -62.37799}
-        - {x: 47.1756, y: -62.37799}
-        - {x: 62.1756, y: -39.37799}
-        - {x: 62.1756, y: 56.62201}
-        - {x: 59.1756, y: 62.62201}
-    - name: Lapin sprite_110
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_110
       rect:
         serializedVersion: 2
         x: 18
@@ -2203,7 +2885,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_111
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_111
       rect:
         serializedVersion: 2
         x: 69
@@ -2213,25 +2905,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 0.2827797, y: 30.245697}
-        - {x: -1.7172203, y: 23.245697}
-        - {x: 3.2827797, y: 20.245697}
-        - {x: 6.2827797, y: 16.245697}
-        - {x: 6.2827797, y: 17.245697}
-        - {x: 3.2827797, y: 19.245697}
-        - {x: -9.71722, y: 19.245697}
-        - {x: -14.71722, y: 12.245697}
-        - {x: -16.71722, y: -3.754303}
-        - {x: -16.71722, y: -28.754303}
-        - {x: -10.71722, y: -28.754303}
-        - {x: -9.71722, y: -25.754303}
-        - {x: 1.2827797, y: -28.754303}
-        - {x: 11.28278, y: -28.754303}
-        - {x: 17.28278, y: -12.754303}
-        - {x: 17.28278, y: 28.245697}
-        - {x: 16.28278, y: 30.245697}
-    - name: Lapin sprite_112
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_112
       rect:
         serializedVersion: 2
         x: 136
@@ -2242,7 +2927,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_113
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_113
       rect:
         serializedVersion: 2
         x: 844
@@ -2252,16 +2947,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -31.765686, y: 15.290741}
-        - {x: -31.765686, y: -11.709259}
-        - {x: -8.765686, y: -53.70926}
-        - {x: 18.234314, y: -84.70926}
-        - {x: 33.234314, y: -84.70926}
-        - {x: 33.234314, y: 85.29074}
-        - {x: 29.234314, y: 85.29074}
-        - {x: -3.765686, y: 60.29074}
-    - name: Lapin sprite_114
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_114
       rect:
         serializedVersion: 2
         x: 18
@@ -2271,16 +2968,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -3.4914474, y: 24.445831}
-        - {x: -13.491447, y: 24.445831}
-        - {x: -20.491447, y: 16.445831}
-        - {x: -20.491447, y: -16.554169}
-        - {x: -18.491447, y: -23.554169}
-        - {x: 21.508553, y: -23.554169}
-        - {x: 21.508553, y: -9.554169}
-        - {x: 4.5085526, y: 23.445831}
-    - name: Lapin sprite_115
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_115
       rect:
         serializedVersion: 2
         x: 95
@@ -2290,15 +2989,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 23.4618, y: 8.945831}
-        - {x: -3.5382004, y: 25.945831}
-        - {x: -18.5382, y: 25.945831}
-        - {x: -22.5382, y: 11.945831}
-        - {x: -22.5382, y: -18.054169}
-        - {x: -20.5382, y: -25.054169}
-        - {x: 23.4618, y: -25.054169}
-    - name: Lapin sprite_116
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_116
       rect:
         serializedVersion: 2
         x: 179
@@ -2308,16 +3010,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -14.998291, y: 25.945831}
-        - {x: -20.998291, y: 18.945831}
-        - {x: -20.998291, y: -19.054169}
-        - {x: -16.998291, y: -25.054169}
-        - {x: 17.001709, y: -25.054169}
-        - {x: 22.001709, y: -20.054169}
-        - {x: 22.001709, y: 20.945831}
-        - {x: 12.001709, y: 25.945831}
-    - name: Lapin sprite_117
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_117
       rect:
         serializedVersion: 2
         x: 258
@@ -2327,15 +3031,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 1.6225739, y: 25.945831}
-        - {x: -20.377426, y: 25.945831}
-        - {x: -22.377426, y: 14.945831}
-        - {x: -22.377426, y: -25.054169}
-        - {x: 23.622574, y: -25.054169}
-        - {x: 23.622574, y: 5.9458313}
-        - {x: 8.622574, y: 22.945831}
-    - name: Lapin sprite_118
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_118
       rect:
         serializedVersion: 2
         x: 386
@@ -2345,13 +3052,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 2.8500519, y: 25.945831}
-        - {x: -18.149948, y: 17.945831}
-        - {x: -18.149948, y: -25.054169}
-        - {x: 18.850052, y: -25.054169}
-        - {x: 18.850052, y: 25.945831}
-    - name: Lapin sprite_119
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_119
       rect:
         serializedVersion: 2
         x: 458
@@ -2361,26 +3073,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 3.3842468, y: -19.554169}
-        - {x: 19.384247, y: -19.554169}
-        - {x: 15.384247, y: -12.554169}
-        - {x: 8.384247, y: -9.554169}
-        - {x: 8.384247, y: -2.5541687}
-        - {x: 8.384247, y: -5.5541687}
-        - {x: 11.384247, y: -9.554169}
-        - {x: 14.384247, y: -9.554169}
-        - {x: 19.384247, y: -8.554169}
-        - {x: 19.384247, y: 14.445831}
-        - {x: 12.384247, y: 20.445831}
-        - {x: -18.615753, y: 20.445831}
-        - {x: -18.615753, y: -9.554169}
-        - {x: -17.615753, y: -19.554169}
-        - {x: -3.6157532, y: -19.554169}
-        - {x: -2.6157532, y: -18.554169}
-        - {x: -2.6157532, y: -9.554169}
-        - {x: -2.6157532, y: -11.554169}
-    - name: Lapin sprite_120
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_120
       rect:
         serializedVersion: 2
         x: 18
@@ -2390,16 +3094,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -2.9914474, y: 24.813568}
-        - {x: -17.991447, y: 24.813568}
-        - {x: -20.991447, y: 22.813568}
-        - {x: -20.991447, y: -22.186432}
-        - {x: -10.991447, y: -24.186432}
-        - {x: 18.008553, y: -24.186432}
-        - {x: 22.008553, y: -12.186432}
-        - {x: 22.008553, y: 6.813568}
-    - name: Lapin sprite_121
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_121
       rect:
         serializedVersion: 2
         x: 98
@@ -2409,16 +3115,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -19.786774, y: 20.813568}
-        - {x: -20.786774, y: 18.813568}
-        - {x: -20.786774, y: -11.186432}
-        - {x: -7.7867737, y: -20.186432}
-        - {x: 17.213226, y: -20.186432}
-        - {x: 21.213226, y: -16.186432}
-        - {x: 21.213226, y: 12.813568}
-        - {x: 8.213226, y: 20.813568}
-    - name: Lapin sprite_122
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_122
       rect:
         serializedVersion: 2
         x: 176
@@ -2428,16 +3136,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 22.250282, y: 14.313568}
-        - {x: 18.250282, y: 21.313568}
-        - {x: -15.749718, y: 21.313568}
-        - {x: -23.749718, y: 14.313568}
-        - {x: -23.749718, y: -20.686432}
-        - {x: 23.250282, y: -20.686432}
-        - {x: 25.250282, y: -17.686432}
-        - {x: 25.250282, y: 7.313568}
-    - name: Lapin sprite_123
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_123
       rect:
         serializedVersion: 2
         x: 268
@@ -2448,7 +3158,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_124
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_124
       rect:
         serializedVersion: 2
         x: 367
@@ -2458,42 +3178,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -53.74231, y: -46.98062}
-        - {x: -39.74231, y: -46.98062}
-        - {x: -39.74231, y: -43.98062}
-        - {x: -50.74231, y: -37.98062}
-        - {x: -53.74231, y: -37.98062}
-      - - {x: -23.74231, y: -40.98062}
-        - {x: -25.74231, y: -42.98062}
-        - {x: -26.74231, y: -46.98062}
-        - {x: -18.74231, y: -46.98062}
-        - {x: -18.74231, y: -42.98062}
-        - {x: -19.74231, y: -40.98062}
-      - - {x: -12.74231, y: -36.98062}
-        - {x: -15.74231, y: -37.98062}
-        - {x: -17.74231, y: -46.98062}
-        - {x: -9.74231, y: -46.98062}
-        - {x: -4.7423096, y: -42.98062}
-        - {x: -4.7423096, y: -39.98062}
-        - {x: -5.7423096, y: -36.98062}
-      - - {x: -13.74231, y: 47.01938}
-        - {x: -12.74231, y: 40.01938}
-        - {x: -25.74231, y: 47.01938}
-        - {x: -43.74231, y: 47.01938}
-        - {x: -53.74231, y: 43.01938}
-        - {x: -53.74231, y: 0.019378662}
-        - {x: -23.74231, y: -41.98062}
-        - {x: -6.7423096, y: -46.98062}
-        - {x: 54.25769, y: -46.98062}
-        - {x: 54.25769, y: 47.01938}
-      - - {x: -53.74231, y: -9.980621}
-        - {x: -53.74231, y: -24.980621}
-        - {x: -52.74231, y: -24.980621}
-        - {x: -48.74231, y: -22.980621}
-        - {x: -48.74231, y: -12.980621}
-        - {x: -49.74231, y: -9.980621}
-    - name: Lapin sprite_125
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_125
       rect:
         serializedVersion: 2
         x: 559
@@ -2503,18 +3199,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 13.848907, y: 14.313568}
-        - {x: 2.8489075, y: 19.313568}
-        - {x: -11.151093, y: 19.313568}
-        - {x: -11.151093, y: 13.313568}
-        - {x: -20.151093, y: 4.313568}
-        - {x: -20.151093, y: -15.686432}
-        - {x: -14.151093, y: -18.686432}
-        - {x: 19.848907, y: -18.686432}
-        - {x: 20.848907, y: -15.686432}
-        - {x: 20.848907, y: 0.31356812}
-    - name: Lapin sprite_126
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_126
       rect:
         serializedVersion: 2
         x: 638
@@ -2524,14 +3220,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -22.530212, y: 17.313568}
-        - {x: -22.530212, y: -10.686432}
-        - {x: -16.530212, y: -16.686432}
-        - {x: 23.469788, y: -16.686432}
-        - {x: 23.469788, y: -2.686432}
-        - {x: 16.469788, y: 17.313568}
-    - name: Lapin sprite_127
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_127
       rect:
         serializedVersion: 2
         x: 724
@@ -2541,14 +3241,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -10.822693, y: 20.813568}
-        - {x: -18.822693, y: 11.813568}
-        - {x: -18.822693, y: -20.186432}
-        - {x: 20.177307, y: -20.186432}
-        - {x: 20.177307, y: 13.813568}
-        - {x: 13.177307, y: 20.813568}
-    - name: Lapin sprite_128
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_128
       rect:
         serializedVersion: 2
         x: 18
@@ -2558,16 +3262,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8.991447, y: 21.267944}
-        - {x: -17.991447, y: 16.267944}
-        - {x: -24.991447, y: 12.267944}
-        - {x: -24.991447, y: -14.732056}
-        - {x: -20.991447, y: -20.732056}
-        - {x: 26.008553, y: -20.732056}
-        - {x: 26.008553, y: 9.267944}
-        - {x: 22.008553, y: 21.267944}
-    - name: Lapin sprite_129
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_129
       rect:
         serializedVersion: 2
         x: 110
@@ -2577,16 +3283,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 26.218925, y: -4.2320557}
-        - {x: 21.218925, y: 23.767944}
-        - {x: -14.781075, y: 23.767944}
-        - {x: -25.781075, y: 11.767944}
-        - {x: -25.781075, y: -16.232056}
-        - {x: -23.781075, y: -19.232056}
-        - {x: -14.781075, y: -23.232056}
-        - {x: 26.218925, y: -23.232056}
-    - name: Lapin sprite_130
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_130
       rect:
         serializedVersion: 2
         x: 206
@@ -2596,16 +3304,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 9.264534, y: 20.267944}
-        - {x: 6.264534, y: 21.267944}
-        - {x: -23.735466, y: 21.267944}
-        - {x: -25.735466, y: 8.267944}
-        - {x: -25.735466, y: -20.732056}
-        - {x: 23.264534, y: -20.732056}
-        - {x: 26.264534, y: -17.732056}
-        - {x: 26.264534, y: -9.732056}
-    - name: Lapin sprite_131
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_131
       rect:
         serializedVersion: 2
         x: 299
@@ -2615,16 +3325,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 11.058716, y: 23.767944}
-        - {x: -15.941284, y: 23.767944}
-        - {x: -25.941284, y: 3.7679443}
-        - {x: -25.941284, y: -17.232056}
-        - {x: -15.941284, y: -23.232056}
-        - {x: 27.058716, y: -23.232056}
-        - {x: 27.058716, y: -11.232056}
-        - {x: 18.058716, y: 22.767944}
-    - name: Lapin sprite_132
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_132
       rect:
         serializedVersion: 2
         x: 414
@@ -2635,7 +3347,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_133
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_133
       rect:
         serializedVersion: 2
         x: 431
@@ -2646,7 +3368,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_134
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_134
       rect:
         serializedVersion: 2
         x: 18
@@ -2656,15 +3388,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -14.991447, y: 27.797607}
-        - {x: -19.991447, y: 22.797607}
-        - {x: -19.991447, y: -20.202393}
-        - {x: -5.9914474, y: -27.202393}
-        - {x: 21.008553, y: -27.202393}
-        - {x: 21.008553, y: 24.797607}
-        - {x: 19.008553, y: 27.797607}
-    - name: Lapin sprite_135
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_135
       rect:
         serializedVersion: 2
         x: 95
@@ -2674,20 +3409,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 21.4618, y: 4.7976074}
-        - {x: 21.4618, y: 15.797607}
-        - {x: 15.4618, y: 22.797607}
-        - {x: -14.5382, y: 22.797607}
-        - {x: -20.5382, y: 10.797607}
-        - {x: -20.5382, y: 4.7976074}
-        - {x: -19.5382, y: 0.7976074}
-        - {x: -20.5382, y: -2.2023926}
-        - {x: -20.5382, y: -22.202393}
-        - {x: 21.4618, y: -22.202393}
-        - {x: 21.4618, y: -19.202393}
-        - {x: 20.4618, y: -16.202393}
-    - name: Lapin sprite_136
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_136
       rect:
         serializedVersion: 2
         x: 170
@@ -2697,20 +3430,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 17.247429, y: 12.797607}
-        - {x: 17.247429, y: 18.797607}
-        - {x: 10.247429, y: 27.797607}
-        - {x: -17.752571, y: 27.797607}
-        - {x: -20.752571, y: 20.797607}
-        - {x: -20.752571, y: -2.2023926}
-        - {x: -15.752571, y: -26.202393}
-        - {x: -14.752571, y: -27.202393}
-        - {x: 6.247429, y: -27.202393}
-        - {x: 21.247429, y: -10.202393}
-        - {x: 21.247429, y: 9.797607}
-        - {x: 16.247429, y: 8.797607}
-    - name: Lapin sprite_137
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_137
       rect:
         serializedVersion: 2
         x: 249
@@ -2720,19 +3451,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 21.368301, y: 0.7976074}
-        - {x: 21.368301, y: 6.7976074}
-        - {x: 18.368301, y: 19.797607}
-        - {x: 12.368301, y: 22.797607}
-        - {x: -11.631699, y: 22.797607}
-        - {x: -19.631699, y: 14.797607}
-        - {x: -20.631699, y: 10.797607}
-        - {x: -20.631699, y: -22.202393}
-        - {x: 21.368301, y: -22.202393}
-        - {x: 21.368301, y: -19.202393}
-        - {x: 20.368301, y: -16.202393}
-    - name: Lapin sprite_138
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_138
       rect:
         serializedVersion: 2
         x: 330
@@ -2742,13 +3472,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -20.343216, y: 21.797607}
-        - {x: -20.343216, y: -21.202393}
-        - {x: 21.656784, y: -21.202393}
-        - {x: 21.656784, y: 20.797607}
-        - {x: 19.656784, y: 21.797607}
-    - name: Lapin sprite_139
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_139
       rect:
         serializedVersion: 2
         x: 412
@@ -2758,18 +3493,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 8.029068, y: 23.297607}
-        - {x: -7.970932, y: 23.297607}
-        - {x: -19.970932, y: 0.29760742}
-        - {x: -18.970932, y: -9.702393}
-        - {x: -14.970932, y: -13.702393}
-        - {x: -20.970932, y: -19.702393}
-        - {x: -20.970932, y: -22.702393}
-        - {x: 22.029068, y: -22.702393}
-        - {x: 22.029068, y: -9.702393}
-        - {x: 16.029068, y: 7.2976074}
-    - name: Lapin sprite_140
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_140
       rect:
         serializedVersion: 2
         x: 507
@@ -2779,25 +3514,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 102.490875, y: 16.926453}
-        - {x: 102.490875, y: 91.92645}
-        - {x: 96.490875, y: 100.92645}
-        - {x: -10.509125, y: 100.92645}
-        - {x: -34.509125, y: 96.92645}
-        - {x: -100.509125, y: 55.926453}
-        - {x: -100.509125, y: -100.07355}
-        - {x: -50.509125, y: -100.07355}
-        - {x: -49.509125, y: -96.07355}
-        - {x: -42.509125, y: -99.07355}
-        - {x: 53.490875, y: -74.07355}
-      - - {x: 90.490875, y: -66.07355}
-        - {x: 70.490875, y: -86.07355}
-        - {x: 70.490875, y: -100.07355}
-        - {x: 84.490875, y: -100.07355}
-        - {x: 102.490875, y: -91.07355}
-        - {x: 102.490875, y: -66.07355}
-    - name: Lapin sprite_141
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_141
       rect:
         serializedVersion: 2
         x: 0
@@ -2807,25 +3535,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -32, y: -78.12771}
-        - {x: -32, y: -94.12771}
-        - {x: -29, y: -94.12771}
-        - {x: -28, y: -93.12771}
-        - {x: -29, y: -80.12771}
-        - {x: -31, y: -78.12771}
-      - - {x: 10, y: 19.872292}
-        - {x: -1, y: 16.872292}
-        - {x: 30, y: 35.87229}
-        - {x: 32, y: 38.87229}
-        - {x: 32, y: 95.87229}
-        - {x: -23, y: 95.87229}
-        - {x: -32, y: 66.87229}
-        - {x: -32, y: -94.12771}
-        - {x: 32, y: -94.12771}
-        - {x: 32, y: -2.1277084}
-        - {x: 29, y: 22.872292}
-    - name: Lapin sprite_142
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_142
       rect:
         serializedVersion: 2
         x: 116
@@ -2835,12 +3556,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -26.278221, y: 30.14537}
-        - {x: -26.278221, y: -28.85463}
-        - {x: 27.721779, y: -28.85463}
-        - {x: 27.721779, y: 30.14537}
-    - name: Lapin sprite_143
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_143
       rect:
         serializedVersion: 2
         x: 213
@@ -2850,12 +3577,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -26.648804, y: 30.14537}
-        - {x: -26.648804, y: -28.85463}
-        - {x: 27.351196, y: -28.85463}
-        - {x: 27.351196, y: 30.14537}
-    - name: Lapin sprite_144
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_144
       rect:
         serializedVersion: 2
         x: 357
@@ -2865,17 +3598,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -26.080399, y: 36.14537}
-        - {x: -26.080399, y: 0.14537048}
-        - {x: -25.080399, y: 0.14537048}
-        - {x: -26.080399, y: -1.8546295}
-        - {x: -26.080399, y: -34.85463}
-        - {x: 22.919601, y: -34.85463}
-        - {x: 26.919601, y: -31.85463}
-        - {x: 26.919601, y: 14.1453705}
-        - {x: -16.080399, y: 36.14537}
-    - name: Lapin sprite_145
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_145
       rect:
         serializedVersion: 2
         x: 802
@@ -2885,16 +3619,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 24.714355, y: 53.50171}
-        - {x: -44.285645, y: -27.498291}
-        - {x: -44.285645, y: -43.49829}
-        - {x: -33.285645, y: -43.49829}
-        - {x: 15.714355, y: -52.49829}
-        - {x: 39.714355, y: -52.49829}
-        - {x: 44.714355, y: -42.49829}
-        - {x: 44.714355, y: 53.50171}
-    - name: Lapin sprite_146
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_146
       rect:
         serializedVersion: 2
         x: 129
@@ -2904,13 +3640,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -6.188713, y: 23.426453}
-        - {x: -19.188713, y: 14.426453}
-        - {x: -19.188713, y: -22.573547}
-        - {x: 19.811287, y: -22.573547}
-        - {x: 19.811287, y: 23.426453}
-    - name: Lapin sprite_147
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_147
       rect:
         serializedVersion: 2
         x: 227
@@ -2920,14 +3661,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 20.024506, y: 9.426453}
-        - {x: 16.024506, y: 23.426453}
-        - {x: -3.9754944, y: 23.426453}
-        - {x: -18.975494, y: 14.426453}
-        - {x: -18.975494, y: -22.573547}
-        - {x: 20.024506, y: -22.573547}
-    - name: Lapin sprite_148
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_148
       rect:
         serializedVersion: 2
         x: 325
@@ -2937,14 +3682,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -1.7622681, y: 23.426453}
-        - {x: -5.762268, y: 22.426453}
-        - {x: -18.762268, y: 14.426453}
-        - {x: -18.762268, y: -22.573547}
-        - {x: 20.237732, y: -22.573547}
-        - {x: 20.237732, y: 23.426453}
-    - name: Lapin sprite_149
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_149
       rect:
         serializedVersion: 2
         x: 422
@@ -2954,24 +3703,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 1.367157, y: 23.426453}
-        - {x: 0.36715698, y: 20.426453}
-        - {x: 0.36715698, y: 18.426453}
-        - {x: -1.632843, y: 21.426453}
-        - {x: -4.632843, y: 21.426453}
-        - {x: -14.632843, y: 18.426453}
-        - {x: -19.632843, y: 9.426453}
-        - {x: -19.632843, y: 2.4264526}
-        - {x: -13.632843, y: -1.5735474}
-        - {x: -10.632843, y: -2.5735474}
-        - {x: -14.632843, y: -7.5735474}
-        - {x: -19.632843, y: -15.573547}
-        - {x: -19.632843, y: -22.573547}
-        - {x: 20.367157, y: -22.573547}
-        - {x: 20.367157, y: 10.426453}
-        - {x: 15.367157, y: 23.426453}
-    - name: Lapin sprite_150
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_150
       rect:
         serializedVersion: 2
         x: 117
@@ -2981,12 +3724,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -26.694412, y: 29.9561}
-        - {x: -26.694412, y: -29.0439}
-        - {x: 27.305588, y: -29.0439}
-        - {x: 27.305588, y: 29.9561}
-    - name: Lapin sprite_151
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_151
       rect:
         serializedVersion: 2
         x: 215
@@ -2996,14 +3745,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -26.481186, y: 29.9561}
-        - {x: -26.481186, y: -27.0439}
-        - {x: -23.481186, y: -29.0439}
-        - {x: 27.518814, y: -29.0439}
-        - {x: 27.518814, y: 23.9561}
-        - {x: 25.518814, y: 29.9561}
-    - name: Lapin sprite_152
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_152
       rect:
         serializedVersion: 2
         x: 313
@@ -3013,13 +3766,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -56.26796, y: 53.5}
-        - {x: -56.26796, y: -53.5}
-        - {x: 42.73204, y: -53.5}
-        - {x: 57.73204, y: -5.5}
-        - {x: 57.73204, y: 53.5}
-    - name: Lapin sprite_153
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_153
       rect:
         serializedVersion: 2
         x: 508
@@ -3029,12 +3787,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 27.574677, y: -29.0439}
-        - {x: 27.574677, y: 29.9561}
-        - {x: -26.425323, y: 29.9561}
-        - {x: -26.425323, y: -29.0439}
-    - name: Lapin sprite_154
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_154
       rect:
         serializedVersion: 2
         x: 37
@@ -3045,7 +3809,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_155
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_155
       rect:
         serializedVersion: 2
         x: 136
@@ -3056,7 +3830,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_156
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_156
       rect:
         serializedVersion: 2
         x: 234
@@ -3067,7 +3851,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_157
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_157
       rect:
         serializedVersion: 2
         x: 528
@@ -3078,7 +3872,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_158
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_158
       rect:
         serializedVersion: 2
         x: 16
@@ -3089,7 +3893,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_159
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_159
       rect:
         serializedVersion: 2
         x: 64
@@ -3100,7 +3914,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_160
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_160
       rect:
         serializedVersion: 2
         x: 85
@@ -3111,7 +3935,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_161
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_161
       rect:
         serializedVersion: 2
         x: 16
@@ -3122,7 +3956,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Lapin sprite_162
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin sprite_162
       rect:
         serializedVersion: 2
         x: 75
@@ -3133,8 +3977,28 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
